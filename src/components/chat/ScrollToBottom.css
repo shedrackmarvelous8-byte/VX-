@@ -1,0 +1,24 @@
+.scroll-bottom {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 12px);
+  display: grid;
+  place-items: center;
+  width: var(--touch);
+  height: var(--touch);
+  transform: translate(-50%, 8px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--dur) var(--ease), transform var(--dur) var(--ease);
+}
+.scroll-bottom[data-visible] { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
+.scroll-bottom__visual {
+  display: grid; place-items: center;
+  width: 36px; height: 36px;
+  border-radius: 50%;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+.scroll-bottom:hover .scroll-bottom__visual { background: var(--surface-3); }

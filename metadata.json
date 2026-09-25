@@ -1,0 +1,6 @@
+{
+  "name": "VX — Core Chat UI",
+  "description": "Mobile-first AI development workspace and chat interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

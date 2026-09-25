@@ -1,0 +1,77 @@
+.empty {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: var(--s-8);
+  min-height: 100%;
+  padding: var(--s-8) 0 var(--s-4);
+}
+.empty__intro { animation: fade-up var(--dur-slow) var(--ease-out) both; }
+.empty__mark {
+  display: grid; place-items: center;
+  width: 44px; height: 44px;
+  margin-bottom: var(--s-5);
+  border-radius: var(--r-md);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+.empty__title {
+  margin: 0 0 var(--s-2);
+  font-size: var(--fs-xl);
+  line-height: 1.2;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+.empty__subtitle {
+  margin: 0;
+  max-width: 34ch;
+  font-size: var(--fs-base);
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+.empty__project { color: var(--text); font-weight: 500; white-space: nowrap; }
+
+.empty__prompts {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--s-2);
+}
+.empty__prompts li { animation: fade-up var(--dur-slow) var(--ease-out) both; }
+.empty__prompt {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--s-3);
+  width: 100%;
+  min-height: 56px;
+  padding: 14px var(--s-4);
+  border-radius: var(--r-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-1);
+  text-align: left;
+  transition: background-color var(--dur-fast) var(--ease), border-color var(--dur-fast) var(--ease),
+    transform var(--dur-fast) var(--ease);
+}
+.empty__prompt:hover { background: var(--surface-2); border-color: var(--border); }
+.empty__prompt:active { transform: scale(0.99); background: var(--surface-2); }
+.empty__prompt-icon { flex: none; margin-top: 2px; color: var(--text-tertiary); }
+.empty__prompt-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.empty__prompt-title { font-size: 15px; font-weight: 500; color: var(--text); }
+.empty__prompt-body { font-size: var(--fs-sm); color: var(--text-tertiary); line-height: 1.4; }
+
+/* Short phones: keep only 3 prompts to avoid crowding */
+@media (max-height: 640px) and (max-width: 599px) {
+  .empty__prompts li:nth-child(n + 4) { display: none; }
+  .empty { gap: var(--s-6); }
+}
+
+@media (min-width: 600px) {
+  .empty { justify-content: center; padding-top: var(--s-12); }
+  .empty__intro { text-align: center; display: flex; flex-direction: column; align-items: center; }
+  .empty__subtitle { max-width: 44ch; }
+  .empty__title { font-size: 30px; }
+  .empty__prompts { grid-template-columns: 1fr 1fr; }
+}

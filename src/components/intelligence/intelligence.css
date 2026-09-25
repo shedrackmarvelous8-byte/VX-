@@ -1,0 +1,159 @@
+.intel-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: var(--bg-surface, #121214);
+  color: var(--text, #ededed);
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.intel-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 14px;
+  border-bottom: 1px solid var(--border, rgba(255, 255, 255, 0.08));
+  background: var(--surface-1, #18181b);
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.intel-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 500;
+  background: rgba(139, 92, 246, 0.15);
+  color: #c084fc;
+  border: 1px solid rgba(139, 92, 246, 0.3);
+}
+
+.intel-nav-pills {
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  padding: 6px 12px;
+  background: var(--surface-2, #1f1f23);
+  border-bottom: 1px solid var(--border, rgba(255, 255, 255, 0.06));
+}
+
+.intel-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  background: transparent;
+  color: var(--text-muted, #a1a1aa);
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.intel-pill:hover {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text, #ededed);
+}
+
+.intel-pill.active {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.intel-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.intel-card {
+  background: var(--surface-1, #18181b);
+  border: 1px solid var(--border, rgba(255, 255, 255, 0.08));
+  border-radius: 8px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.intel-finding-item {
+  background: var(--bg-surface, #121214);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 6px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.intel-finding-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.intel-severity-badge {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.intel-severity-badge.high {
+  background: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+}
+
+.intel-severity-badge.medium {
+  background: rgba(234, 179, 8, 0.15);
+  color: #facc15;
+}
+
+.intel-severity-badge.low {
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+}
+
+.intel-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all 0.15s;
+}
+
+.intel-btn-primary {
+  background: #3b82f6;
+  color: #ffffff;
+}
+
+.intel-btn-primary:hover {
+  background: #2563eb;
+}
+
+.intel-btn-secondary {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text, #ededed);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.intel-btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.1);
+}

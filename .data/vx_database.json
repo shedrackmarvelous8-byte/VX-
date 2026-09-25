@@ -1,0 +1,3808 @@
+{
+  "profiles": {
+    "c51ed9d8-9004-4d50-84c9-506dcb10a3bf": {
+      "id": "c51ed9d8-9004-4d50-84c9-506dcb10a3bf",
+      "email": "test_voice_1790191303137@vx.dev",
+      "display_name": "Voice Tester",
+      "avatar_url": null,
+      "email_verified": false,
+      "created_at": "2026-09-23T19:21:43.138Z",
+      "updated_at": "2026-09-23T19:21:43.138Z"
+    },
+    "c0524d37-011b-43ef-8cb0-217fa9c6ed22": {
+      "id": "c0524d37-011b-43ef-8cb0-217fa9c6ed22",
+      "email": "test_voice_1790191327812@vx.dev",
+      "display_name": "Voice Tester",
+      "avatar_url": null,
+      "email_verified": false,
+      "created_at": "2026-09-23T19:22:07.812Z",
+      "updated_at": "2026-09-23T19:22:07.812Z"
+    },
+    "133eeb1b-9408-45f0-b017-8357aa3fa2ff": {
+      "id": "133eeb1b-9408-45f0-b017-8357aa3fa2ff",
+      "email": "test_1790192440706@vx.dev",
+      "display_name": "VX Tester",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-23T19:40:40.706Z",
+      "updated_at": "2026-09-23T19:40:41.592Z"
+    },
+    "b1e382ec-ae41-4164-b76e-1416e568c01e": {
+      "id": "b1e382ec-ae41-4164-b76e-1416e568c01e",
+      "email": "test_1790192469580@vx.dev",
+      "display_name": "VX Tester",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-23T19:41:09.581Z",
+      "updated_at": "2026-09-23T19:41:10.191Z"
+    },
+    "fbb949e4-8e12-4e3d-890a-54b7513dcda5": {
+      "id": "fbb949e4-8e12-4e3d-890a-54b7513dcda5",
+      "email": "api_test_1790192517075@vx.dev",
+      "display_name": "API Tester",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-23T19:41:57.580Z",
+      "updated_at": "2026-09-23T19:41:58.753Z"
+    },
+    "de4d8667-f3ba-4999-a965-72814c340d51": {
+      "id": "de4d8667-f3ba-4999-a965-72814c340d51",
+      "email": "vx_test_1790194475281@example.com",
+      "display_name": "Test Engineer",
+      "avatar_url": null,
+      "email_verified": false,
+      "created_at": "2026-09-23T20:14:35.419Z",
+      "updated_at": "2026-09-23T20:14:35.419Z"
+    },
+    "24d4b716-cc88-45cf-949b-9a72581ec1bc": {
+      "id": "24d4b716-cc88-45cf-949b-9a72581ec1bc",
+      "email": "vx_test_1790194493052@example.com",
+      "display_name": "Test Engineer",
+      "avatar_url": null,
+      "email_verified": false,
+      "created_at": "2026-09-23T20:14:53.213Z",
+      "updated_at": "2026-09-23T20:14:53.213Z"
+    },
+    "07ead4f4-1731-4025-9190-26c059eb835f": {
+      "id": "07ead4f4-1731-4025-9190-26c059eb835f",
+      "email": "vx_test_1790194510359@example.com",
+      "display_name": "Test Engineer",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-23T20:15:10.490Z",
+      "updated_at": "2026-09-23T20:15:11.215Z"
+    },
+    "da8feaac-f1cc-4103-89ce-7357e5ff2283": {
+      "id": "da8feaac-f1cc-4103-89ce-7357e5ff2283",
+      "email": "test_live_1790194522075@example.com",
+      "display_name": "Live Dev",
+      "avatar_url": null,
+      "email_verified": false,
+      "created_at": "2026-09-23T20:15:24.697Z",
+      "updated_at": "2026-09-23T20:15:24.697Z"
+    },
+    "757ea438-9a36-4df0-ae46-c2b23b70d238": {
+      "id": "757ea438-9a36-4df0-ae46-c2b23b70d238",
+      "email": "test_live_1790194544088@example.com",
+      "display_name": "Live Dev",
+      "avatar_url": null,
+      "email_verified": false,
+      "created_at": "2026-09-23T20:15:44.449Z",
+      "updated_at": "2026-09-23T20:15:44.449Z"
+    },
+    "70097c68-358a-4cca-bc3c-321ca3d80766": {
+      "id": "70097c68-358a-4cca-bc3c-321ca3d80766",
+      "email": "test_live_1790194555251@example.com",
+      "display_name": "Live Dev",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-23T20:16:01.285Z",
+      "updated_at": "2026-09-23T20:16:03.915Z"
+    },
+    "044af8d5-0fba-413a-9b62-947169a58dca": {
+      "id": "044af8d5-0fba-413a-9b62-947169a58dca",
+      "email": "test_voice_1790228791659@vx.dev",
+      "display_name": "Voice Tester",
+      "avatar_url": null,
+      "email_verified": false,
+      "created_at": "2026-09-24T05:46:31.660Z",
+      "updated_at": "2026-09-24T05:46:31.660Z"
+    },
+    "a3ee1f30-768a-403c-b9fa-46da1cb86c3a": {
+      "id": "a3ee1f30-768a-403c-b9fa-46da1cb86c3a",
+      "email": "test_voice_1790229464140@vx.dev",
+      "display_name": "Voice Tester",
+      "avatar_url": null,
+      "email_verified": false,
+      "created_at": "2026-09-24T05:57:44.141Z",
+      "updated_at": "2026-09-24T05:57:44.141Z"
+    },
+    "e3809087-cadd-4ad2-844e-d949c962d612": {
+      "id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "email": "audit-1790314300580@vx.dev",
+      "display_name": "Audit Engineer",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-25T05:31:40.581Z",
+      "updated_at": "2026-09-25T05:31:40.581Z"
+    },
+    "9a2b4d8b-2fa4-44d0-9173-99b88e84cced": {
+      "id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "email": "audit-1790314358740@vx.dev",
+      "display_name": "Audit Engineer",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-25T05:32:38.741Z",
+      "updated_at": "2026-09-25T05:32:38.741Z"
+    },
+    "253979f4-383d-4d70-9733-2a0cd1877af8": {
+      "id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "email": "audit-1790314417077@vx.dev",
+      "display_name": "Audit Engineer",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-25T05:33:37.078Z",
+      "updated_at": "2026-09-25T05:33:37.078Z"
+    },
+    "988ba144-1c64-4532-9a96-ca417b2288ab": {
+      "id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "email": "audit-1790315995585@vx.dev",
+      "display_name": "Audit Engineer",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-25T05:59:55.585Z",
+      "updated_at": "2026-09-25T05:59:55.585Z"
+    },
+    "633a39c8-ec3b-47bc-a724-df1c1f810600": {
+      "id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "email": "audit-1790318896927@vx.dev",
+      "display_name": "Audit Engineer",
+      "avatar_url": null,
+      "email_verified": true,
+      "created_at": "2026-09-25T06:48:16.927Z",
+      "updated_at": "2026-09-25T06:48:16.927Z"
+    }
+  },
+  "credentials": {
+    "c51ed9d8-9004-4d50-84c9-506dcb10a3bf": {
+      "user_id": "c51ed9d8-9004-4d50-84c9-506dcb10a3bf",
+      "password_hash": "testhash123",
+      "created_at": "2026-09-23T19:21:43.138Z",
+      "updated_at": "2026-09-23T19:21:43.138Z"
+    },
+    "c0524d37-011b-43ef-8cb0-217fa9c6ed22": {
+      "user_id": "c0524d37-011b-43ef-8cb0-217fa9c6ed22",
+      "password_hash": "testhash123",
+      "created_at": "2026-09-23T19:22:07.812Z",
+      "updated_at": "2026-09-23T19:22:07.812Z"
+    },
+    "133eeb1b-9408-45f0-b017-8357aa3fa2ff": {
+      "user_id": "133eeb1b-9408-45f0-b017-8357aa3fa2ff",
+      "password_hash": "$2b$10$qXZLcSs7SZSpbD8fdEZep.T6748fI5IDtBHmLWzLHyV8GXAV23mXK",
+      "created_at": "2026-09-23T19:40:40.706Z",
+      "updated_at": "2026-09-23T19:40:40.706Z"
+    },
+    "b1e382ec-ae41-4164-b76e-1416e568c01e": {
+      "user_id": "b1e382ec-ae41-4164-b76e-1416e568c01e",
+      "password_hash": "$2b$10$1BT60bw8oSdlfoGAtdTdY.qBn6OYzBfQggduKwKGbOisPv55.qnSS",
+      "created_at": "2026-09-23T19:41:09.581Z",
+      "updated_at": "2026-09-23T19:41:09.581Z"
+    },
+    "fbb949e4-8e12-4e3d-890a-54b7513dcda5": {
+      "user_id": "fbb949e4-8e12-4e3d-890a-54b7513dcda5",
+      "password_hash": "$2b$10$3iXFMJaVgZXq8MAS2BA6AOAWpcfaRO0v6QVOysdItJc2Zi6f93RcO",
+      "created_at": "2026-09-23T19:41:57.580Z",
+      "updated_at": "2026-09-23T19:41:57.580Z"
+    },
+    "de4d8667-f3ba-4999-a965-72814c340d51": {
+      "user_id": "de4d8667-f3ba-4999-a965-72814c340d51",
+      "password_hash": "$2b$10$GeR0I/JsCTBfuJVMeJVxMu6.tNfmnJ7iOoaFBwxnk8r2Guilei4Fa",
+      "created_at": "2026-09-23T20:14:35.419Z",
+      "updated_at": "2026-09-23T20:14:35.419Z"
+    },
+    "24d4b716-cc88-45cf-949b-9a72581ec1bc": {
+      "user_id": "24d4b716-cc88-45cf-949b-9a72581ec1bc",
+      "password_hash": "$2b$10$Hk6VvYTdRWBWzGFvhJt1Yu4Ypn6uNUIQTJlVN6UHlDPl20XDDfkV.",
+      "created_at": "2026-09-23T20:14:53.213Z",
+      "updated_at": "2026-09-23T20:14:53.213Z"
+    },
+    "07ead4f4-1731-4025-9190-26c059eb835f": {
+      "user_id": "07ead4f4-1731-4025-9190-26c059eb835f",
+      "password_hash": "$2b$10$gBnyQjIyUTtLRu3iCtCrfeBax3tRDpQxMFx37NpINRjA.iw9nnz.u",
+      "created_at": "2026-09-23T20:15:10.490Z",
+      "updated_at": "2026-09-23T20:15:10.490Z"
+    },
+    "da8feaac-f1cc-4103-89ce-7357e5ff2283": {
+      "user_id": "da8feaac-f1cc-4103-89ce-7357e5ff2283",
+      "password_hash": "$2b$10$lecyymx3BZQPXKUlAG41A.vFna2KOQViBo2s5dIj8R9oRmQkH89m6",
+      "created_at": "2026-09-23T20:15:24.697Z",
+      "updated_at": "2026-09-23T20:15:24.697Z"
+    },
+    "757ea438-9a36-4df0-ae46-c2b23b70d238": {
+      "user_id": "757ea438-9a36-4df0-ae46-c2b23b70d238",
+      "password_hash": "$2b$10$VaH8qKY7mi5QhSWTGdaggOVjaQCIDFUrQMXnWCwiiceSccoBAkQbK",
+      "created_at": "2026-09-23T20:15:44.449Z",
+      "updated_at": "2026-09-23T20:15:44.449Z"
+    },
+    "70097c68-358a-4cca-bc3c-321ca3d80766": {
+      "user_id": "70097c68-358a-4cca-bc3c-321ca3d80766",
+      "password_hash": "$2b$10$MfxKIS4XiIoFWwJkxBsaBeDwg0vD.owodv.sWSePOCQH10vak0Atq",
+      "created_at": "2026-09-23T20:16:01.285Z",
+      "updated_at": "2026-09-23T20:16:01.285Z"
+    },
+    "044af8d5-0fba-413a-9b62-947169a58dca": {
+      "user_id": "044af8d5-0fba-413a-9b62-947169a58dca",
+      "password_hash": "testhash123",
+      "created_at": "2026-09-24T05:46:31.660Z",
+      "updated_at": "2026-09-24T05:46:31.660Z"
+    },
+    "a3ee1f30-768a-403c-b9fa-46da1cb86c3a": {
+      "user_id": "a3ee1f30-768a-403c-b9fa-46da1cb86c3a",
+      "password_hash": "testhash123",
+      "created_at": "2026-09-24T05:57:44.141Z",
+      "updated_at": "2026-09-24T05:57:44.141Z"
+    },
+    "e3809087-cadd-4ad2-844e-d949c962d612": {
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "password_hash": "$2a$10$hashedPasswordSample1234567890",
+      "created_at": "2026-09-25T05:31:40.581Z",
+      "updated_at": "2026-09-25T05:31:40.581Z"
+    },
+    "9a2b4d8b-2fa4-44d0-9173-99b88e84cced": {
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "password_hash": "$2a$10$hashedPasswordSample1234567890",
+      "created_at": "2026-09-25T05:32:38.741Z",
+      "updated_at": "2026-09-25T05:32:38.741Z"
+    },
+    "253979f4-383d-4d70-9733-2a0cd1877af8": {
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "password_hash": "$2a$10$hashedPasswordSample1234567890",
+      "created_at": "2026-09-25T05:33:37.078Z",
+      "updated_at": "2026-09-25T05:33:37.078Z"
+    },
+    "988ba144-1c64-4532-9a96-ca417b2288ab": {
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "password_hash": "$2a$10$hashedPasswordSample1234567890",
+      "created_at": "2026-09-25T05:59:55.585Z",
+      "updated_at": "2026-09-25T05:59:55.585Z"
+    },
+    "633a39c8-ec3b-47bc-a724-df1c1f810600": {
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "password_hash": "$2a$10$hashedPasswordSample1234567890",
+      "created_at": "2026-09-25T06:48:16.927Z",
+      "updated_at": "2026-09-25T06:48:16.927Z"
+    }
+  },
+  "sessions": {
+    "a18de87cae3a28947fd52847208dabfc86af293e2dabb665ee9d56fcb745bc2b": {
+      "token": "a18de87cae3a28947fd52847208dabfc86af293e2dabb665ee9d56fcb745bc2b",
+      "user_id": "133eeb1b-9408-45f0-b017-8357aa3fa2ff",
+      "expires_at": "2026-10-23T19:40:41.634Z",
+      "created_at": "2026-09-23T19:40:41.635Z"
+    },
+    "1da4f186405feae703899d58dd346dd2bf7ee09e513434477798385ce5d182b7": {
+      "token": "1da4f186405feae703899d58dd346dd2bf7ee09e513434477798385ce5d182b7",
+      "user_id": "fbb949e4-8e12-4e3d-890a-54b7513dcda5",
+      "expires_at": "2026-10-23T19:41:58.244Z",
+      "created_at": "2026-09-23T19:41:58.244Z"
+    },
+    "93584482cd971f812b8a57ff2bdd690b18e31281a6dd7b9b181dad44951b1a57": {
+      "token": "93584482cd971f812b8a57ff2bdd690b18e31281a6dd7b9b181dad44951b1a57",
+      "user_id": "fbb949e4-8e12-4e3d-890a-54b7513dcda5",
+      "expires_at": "2026-10-23T19:41:58.795Z",
+      "created_at": "2026-09-23T19:41:58.795Z"
+    },
+    "c1c1d7c4c0745f9008f289b64bed1a77f8a8eb9ff3df46f51b2405f03812876a": {
+      "token": "c1c1d7c4c0745f9008f289b64bed1a77f8a8eb9ff3df46f51b2405f03812876a",
+      "user_id": "de4d8667-f3ba-4999-a965-72814c340d51",
+      "expires_at": "2026-09-30T20:14:35.857Z",
+      "created_at": "2026-09-23T20:14:35.857Z"
+    },
+    "b6d1161c60be0ab13a75e9042b6e870cf5ab47d0bfb810a4f4738e872b6b5a5c": {
+      "token": "b6d1161c60be0ab13a75e9042b6e870cf5ab47d0bfb810a4f4738e872b6b5a5c",
+      "user_id": "24d4b716-cc88-45cf-949b-9a72581ec1bc",
+      "expires_at": "2026-09-30T20:14:53.822Z",
+      "created_at": "2026-09-23T20:14:53.822Z"
+    },
+    "6d637c479b3893ae1051c71d56863a50e6f568605ea7cdda3fb70c7948e6679d": {
+      "token": "6d637c479b3893ae1051c71d56863a50e6f568605ea7cdda3fb70c7948e6679d",
+      "user_id": "07ead4f4-1731-4025-9190-26c059eb835f",
+      "expires_at": "2026-09-30T20:15:10.973Z",
+      "created_at": "2026-09-23T20:15:10.973Z"
+    },
+    "a45798d64612468ddfad5d4f60b58e28b57c82443d5868098743bc2f57614d9f": {
+      "token": "a45798d64612468ddfad5d4f60b58e28b57c82443d5868098743bc2f57614d9f",
+      "user_id": "da8feaac-f1cc-4103-89ce-7357e5ff2283",
+      "expires_at": "2026-10-23T20:15:25.433Z",
+      "created_at": "2026-09-23T20:15:25.433Z"
+    },
+    "057649e7278521a249d3e074d043444cb49f668cb4b4c47528012b0f437e11cb": {
+      "token": "057649e7278521a249d3e074d043444cb49f668cb4b4c47528012b0f437e11cb",
+      "user_id": "da8feaac-f1cc-4103-89ce-7357e5ff2283",
+      "expires_at": "2026-10-23T20:15:26.747Z",
+      "created_at": "2026-09-23T20:15:26.747Z"
+    },
+    "249356f199d99a8f13269a523b55107a605caee37707d35ac1f2113622302280": {
+      "token": "249356f199d99a8f13269a523b55107a605caee37707d35ac1f2113622302280",
+      "user_id": "757ea438-9a36-4df0-ae46-c2b23b70d238",
+      "expires_at": "2026-10-23T20:15:44.822Z",
+      "created_at": "2026-09-23T20:15:44.822Z"
+    },
+    "98f12c9c0ebeed007449532c5465d345a5f7ecc3674be82589df4c2c928677cd": {
+      "token": "98f12c9c0ebeed007449532c5465d345a5f7ecc3674be82589df4c2c928677cd",
+      "user_id": "757ea438-9a36-4df0-ae46-c2b23b70d238",
+      "expires_at": "2026-10-23T20:15:45.222Z",
+      "created_at": "2026-09-23T20:15:45.222Z"
+    },
+    "c9ce7a84fefe8b61021df2e2a51c04a96393a14c06190472e10ce4b985750aa2": {
+      "token": "c9ce7a84fefe8b61021df2e2a51c04a96393a14c06190472e10ce4b985750aa2",
+      "user_id": "70097c68-358a-4cca-bc3c-321ca3d80766",
+      "expires_at": "2026-10-23T20:16:02.057Z",
+      "created_at": "2026-09-23T20:16:02.057Z"
+    },
+    "4b4aaab9841019055c62c38f51b097b6653309914980938efd2c80e91a5b2d70": {
+      "token": "4b4aaab9841019055c62c38f51b097b6653309914980938efd2c80e91a5b2d70",
+      "user_id": "70097c68-358a-4cca-bc3c-321ca3d80766",
+      "expires_at": "2026-10-23T20:16:03.975Z",
+      "created_at": "2026-09-23T20:16:03.975Z"
+    },
+    "a8ba72984c04cdf6beea4ed32e4b34872edb4fa8866a11b5e11bf576e77696d2": {
+      "token": "a8ba72984c04cdf6beea4ed32e4b34872edb4fa8866a11b5e11bf576e77696d2",
+      "user_id": "70097c68-358a-4cca-bc3c-321ca3d80766",
+      "expires_at": "2026-10-23T20:16:04.659Z",
+      "created_at": "2026-09-23T20:16:04.659Z"
+    },
+    "session-token-1790314300750": {
+      "token": "session-token-1790314300750",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "expires_at": "2026-09-26T05:31:40.750Z",
+      "created_at": "2026-09-25T05:31:40.750Z"
+    },
+    "session-token-1790314358911": {
+      "token": "session-token-1790314358911",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "expires_at": "2026-09-26T05:32:38.911Z",
+      "created_at": "2026-09-25T05:32:38.911Z"
+    },
+    "session-token-1790314417302": {
+      "token": "session-token-1790314417302",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "expires_at": "2026-09-26T05:33:37.302Z",
+      "created_at": "2026-09-25T05:33:37.302Z"
+    },
+    "session-token-1790315995874": {
+      "token": "session-token-1790315995874",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "expires_at": "2026-09-26T05:59:55.874Z",
+      "created_at": "2026-09-25T05:59:55.874Z"
+    },
+    "session-token-1790318897089": {
+      "token": "session-token-1790318897089",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "expires_at": "2026-09-26T06:48:17.089Z",
+      "created_at": "2026-09-25T06:48:17.089Z"
+    }
+  },
+  "resetTokens": {},
+  "verificationCodes": {
+    "133eeb1b-9408-45f0-b017-8357aa3fa2ff": {
+      "id": "f9917b6c-a84c-4d1d-904b-63edd69b3245",
+      "user_id": "133eeb1b-9408-45f0-b017-8357aa3fa2ff",
+      "code_hash": "7276ce7da02b5c5542490ce8ccba613a500ddcc4e4ce48cc4978bd7f7a5c4afe",
+      "expires_at": "2026-09-23T19:55:41.447Z",
+      "attempts": 0,
+      "last_resend_at": "2026-09-23T19:40:41.447Z",
+      "resend_count": 0,
+      "created_at": "2026-09-23T19:40:41.447Z",
+      "updated_at": "2026-09-23T19:40:41.447Z"
+    },
+    "24d4b716-cc88-45cf-949b-9a72581ec1bc": {
+      "id": "0e13c222-a9ef-4414-8d6c-e74fca2b607e",
+      "user_id": "24d4b716-cc88-45cf-949b-9a72581ec1bc",
+      "code_hash": "44b6f4ed44b92158f456d63eb0f446e477f1a75969aaf68e56370081e0a2a08f",
+      "expires_at": "2026-09-23T20:29:53.900Z",
+      "attempts": 0,
+      "last_resend_at": "2026-09-23T20:14:53.900Z",
+      "resend_count": 0,
+      "created_at": "2026-09-23T20:14:53.900Z",
+      "updated_at": "2026-09-23T20:14:53.900Z"
+    },
+    "da8feaac-f1cc-4103-89ce-7357e5ff2283": {
+      "id": "567aa794-56be-4b76-a12b-a409b55847ce",
+      "user_id": "da8feaac-f1cc-4103-89ce-7357e5ff2283",
+      "code_hash": "b689d6c64062276dc2f76d810c3e2d7359f1fd138c92d8befbb5e88d4ba27e72",
+      "expires_at": "2026-09-23T20:30:24.878Z",
+      "attempts": 0,
+      "last_resend_at": "2026-09-23T20:15:24.878Z",
+      "resend_count": 0,
+      "created_at": "2026-09-23T20:15:24.878Z",
+      "updated_at": "2026-09-23T20:15:24.878Z"
+    },
+    "757ea438-9a36-4df0-ae46-c2b23b70d238": {
+      "id": "8f5eaf61-5773-48b9-a0cc-977e2ed85f5b",
+      "user_id": "757ea438-9a36-4df0-ae46-c2b23b70d238",
+      "code_hash": "b33e5ab968cc2d1dbe5834bbb048002bedb8ed0af3b6e4123e9afc7b8377446f",
+      "expires_at": "2026-09-23T20:30:44.663Z",
+      "attempts": 0,
+      "last_resend_at": "2026-09-23T20:15:44.664Z",
+      "resend_count": 0,
+      "created_at": "2026-09-23T20:15:44.664Z",
+      "updated_at": "2026-09-23T20:15:44.664Z"
+    }
+  },
+  "projects": {
+    "a32c8a3c-4f0c-4bda-aca8-a2f475109988": {
+      "id": "a32c8a3c-4f0c-4bda-aca8-a2f475109988",
+      "user_id": "c0524d37-011b-43ef-8cb0-217fa9c6ed22",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T19:22:08.041Z",
+      "updated_at": "2026-09-23T19:22:08.041Z"
+    },
+    "68142ed0-b402-49c8-929d-3647856d5688": {
+      "id": "68142ed0-b402-49c8-929d-3647856d5688",
+      "name": "Live Verification",
+      "description": null,
+      "stack": "Next.js",
+      "created_at": "2026-09-23T19:22:08.208Z",
+      "updated_at": "2026-09-23T19:22:08.208Z"
+    },
+    "a5200a5d-4f3f-4c60-94d3-0eabb2f1f323": {
+      "id": "a5200a5d-4f3f-4c60-94d3-0eabb2f1f323",
+      "user_id": "133eeb1b-9408-45f0-b017-8357aa3fa2ff",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T19:40:41.173Z",
+      "updated_at": "2026-09-23T19:40:41.173Z"
+    },
+    "61e5b9b5-66cc-4faf-ab1f-088dbd64497e": {
+      "id": "61e5b9b5-66cc-4faf-ab1f-088dbd64497e",
+      "user_id": "b1e382ec-ae41-4164-b76e-1416e568c01e",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T19:41:09.807Z",
+      "updated_at": "2026-09-23T19:41:09.807Z"
+    },
+    "5be23dc7-3f5b-4a53-81b9-19212de10343": {
+      "id": "5be23dc7-3f5b-4a53-81b9-19212de10343",
+      "user_id": "fbb949e4-8e12-4e3d-890a-54b7513dcda5",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T19:41:57.674Z",
+      "updated_at": "2026-09-23T19:41:57.674Z"
+    },
+    "cbd74302-628c-4898-af59-7398589ddbdd": {
+      "id": "cbd74302-628c-4898-af59-7398589ddbdd",
+      "user_id": "de4d8667-f3ba-4999-a965-72814c340d51",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T20:14:35.725Z",
+      "updated_at": "2026-09-23T20:14:35.725Z"
+    },
+    "4af55d04-e0ec-48d3-85e1-891375c4ea49": {
+      "id": "4af55d04-e0ec-48d3-85e1-891375c4ea49",
+      "user_id": "24d4b716-cc88-45cf-949b-9a72581ec1bc",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T20:14:53.680Z",
+      "updated_at": "2026-09-23T20:14:53.680Z"
+    },
+    "be994a37-55be-4a57-8bf9-75de88d343eb": {
+      "id": "be994a37-55be-4a57-8bf9-75de88d343eb",
+      "user_id": "07ead4f4-1731-4025-9190-26c059eb835f",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T20:15:10.847Z",
+      "updated_at": "2026-09-23T20:15:10.847Z"
+    },
+    "4982a21a-4c8a-48df-bde0-1350de9bf743": {
+      "id": "4982a21a-4c8a-48df-bde0-1350de9bf743",
+      "user_id": "da8feaac-f1cc-4103-89ce-7357e5ff2283",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T20:15:24.744Z",
+      "updated_at": "2026-09-23T20:15:24.744Z"
+    },
+    "649f3bf1-bea3-4be2-a3db-b4a95b57b7c2": {
+      "id": "649f3bf1-bea3-4be2-a3db-b4a95b57b7c2",
+      "user_id": "757ea438-9a36-4df0-ae46-c2b23b70d238",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T20:15:44.515Z",
+      "updated_at": "2026-09-23T20:15:44.515Z"
+    },
+    "e724ea9c-7331-46f8-a9bf-70887c0dba0a": {
+      "id": "e724ea9c-7331-46f8-a9bf-70887c0dba0a",
+      "user_id": "70097c68-358a-4cca-bc3c-321ca3d80766",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-23T20:16:01.373Z",
+      "updated_at": "2026-09-23T20:16:01.373Z"
+    },
+    "731480e8-6899-4446-aa66-0254a00ac089": {
+      "id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "user_id": "user_p6_test_1",
+      "name": "Project One",
+      "description": "First project for file system tests",
+      "stack": "Next.js",
+      "created_at": "2026-09-24T05:43:52.485Z",
+      "updated_at": "2026-09-24T05:43:52.485Z"
+    },
+    "b2aac549-d1fb-4eb8-ae2a-62a82c9b4570": {
+      "id": "b2aac549-d1fb-4eb8-ae2a-62a82c9b4570",
+      "user_id": "user_p6_test_2",
+      "name": "Project Two",
+      "description": "Second project for isolation tests",
+      "stack": "React",
+      "created_at": "2026-09-24T05:43:52.778Z",
+      "updated_at": "2026-09-24T05:43:52.778Z"
+    },
+    "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66": {
+      "id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "user_id": "user_p6_test_1",
+      "name": "Project One",
+      "description": "First project for file system tests",
+      "stack": "Next.js",
+      "created_at": "2026-09-24T05:45:22.055Z",
+      "updated_at": "2026-09-24T05:45:22.055Z"
+    },
+    "cf07c1e1-3646-43c4-bbb2-2fc85f0c4b58": {
+      "id": "cf07c1e1-3646-43c4-bbb2-2fc85f0c4b58",
+      "user_id": "user_p6_test_2",
+      "name": "Project Two",
+      "description": "Second project for isolation tests",
+      "stack": "React",
+      "created_at": "2026-09-24T05:45:22.208Z",
+      "updated_at": "2026-09-24T05:45:22.208Z"
+    },
+    "eee0cc5f-70a6-40fb-a86e-1fd30e925875": {
+      "id": "eee0cc5f-70a6-40fb-a86e-1fd30e925875",
+      "user_id": "044af8d5-0fba-413a-9b62-947169a58dca",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-24T05:46:31.662Z",
+      "updated_at": "2026-09-24T05:46:31.662Z"
+    },
+    "68ec7b8f-a9c8-4cdc-9c13-5ed5d66d2888": {
+      "id": "68ec7b8f-a9c8-4cdc-9c13-5ed5d66d2888",
+      "name": "Live Verification",
+      "description": null,
+      "stack": "Next.js",
+      "created_at": "2026-09-24T05:46:31.663Z",
+      "updated_at": "2026-09-24T05:46:31.663Z"
+    },
+    "5da04a3c-e5b9-4365-9434-05563685258f": {
+      "id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "user_id": "user_p6_test_1",
+      "name": "Project One",
+      "description": "First project for file system tests",
+      "stack": "Next.js",
+      "created_at": "2026-09-24T05:46:36.946Z",
+      "updated_at": "2026-09-24T05:46:36.946Z"
+    },
+    "42e706ce-5a98-456a-a057-71a5ee9876c9": {
+      "id": "42e706ce-5a98-456a-a057-71a5ee9876c9",
+      "user_id": "user_p6_test_2",
+      "name": "Project Two",
+      "description": "Second project for isolation tests",
+      "stack": "React",
+      "created_at": "2026-09-24T05:46:37.083Z",
+      "updated_at": "2026-09-24T05:46:37.083Z"
+    },
+    "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8": {
+      "id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "user_id": "user_p6_test_1",
+      "name": "Project One",
+      "description": "First project for file system tests",
+      "stack": "Next.js",
+      "created_at": "2026-09-24T05:57:35.955Z",
+      "updated_at": "2026-09-24T05:57:35.955Z"
+    },
+    "76c31987-7eab-4592-8404-e60369da73d3": {
+      "id": "76c31987-7eab-4592-8404-e60369da73d3",
+      "user_id": "user_p6_test_2",
+      "name": "Project Two",
+      "description": "Second project for isolation tests",
+      "stack": "React",
+      "created_at": "2026-09-24T05:57:36.103Z",
+      "updated_at": "2026-09-24T05:57:36.103Z"
+    },
+    "0108290f-8f1c-49b8-86ac-d0136add8c8d": {
+      "id": "0108290f-8f1c-49b8-86ac-d0136add8c8d",
+      "user_id": "a3ee1f30-768a-403c-b9fa-46da1cb86c3a",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "created_at": "2026-09-24T05:57:44.144Z",
+      "updated_at": "2026-09-24T05:57:44.144Z"
+    },
+    "a36d7dbf-415e-4be1-b85c-71c799e7efc9": {
+      "id": "a36d7dbf-415e-4be1-b85c-71c799e7efc9",
+      "name": "Live Verification",
+      "description": null,
+      "stack": "Next.js",
+      "created_at": "2026-09-24T05:57:44.145Z",
+      "updated_at": "2026-09-24T05:57:44.145Z"
+    },
+    "4df057c1-c47b-4a0f-b969-bd2db765ceeb": {
+      "id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "user_id": "user_p6_test_1",
+      "name": "Project One",
+      "description": "First project for file system tests",
+      "stack": "Next.js",
+      "created_at": "2026-09-24T06:00:08.335Z",
+      "updated_at": "2026-09-24T06:00:08.335Z"
+    },
+    "2b73fb02-2ef4-44ac-86ed-2dc0ef770c7d": {
+      "id": "2b73fb02-2ef4-44ac-86ed-2dc0ef770c7d",
+      "user_id": "user_p6_test_2",
+      "name": "Project Two",
+      "description": "Second project for isolation tests",
+      "stack": "React",
+      "created_at": "2026-09-24T06:00:08.476Z",
+      "updated_at": "2026-09-24T06:00:08.476Z"
+    },
+    "9bcecf32-969c-4ea0-aaf8-4d6473ef1676": {
+      "id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "user_id": "test-user-p16-1790306405411",
+      "name": "Phase 16 Test App",
+      "description": "Android APK build test project",
+      "stack": "Expo · React Native",
+      "target": "mobile",
+      "created_at": "2026-09-25T03:20:05.412Z",
+      "updated_at": "2026-09-25T03:20:05.412Z"
+    },
+    "98ae28db-b8dc-4a75-9f37-bff656838f19": {
+      "id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "name": "Phase 16 Test App",
+      "description": "Android APK build test project",
+      "stack": "Expo · React Native",
+      "target": "mobile",
+      "created_at": "2026-09-25T03:25:13.889Z",
+      "updated_at": "2026-09-25T03:25:13.889Z"
+    },
+    "fdaac850-dc64-4f2f-b295-9a252af968ac": {
+      "id": "fdaac850-dc64-4f2f-b295-9a252af968ac",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T05:31:40.747Z",
+      "updated_at": "2026-09-25T05:31:40.747Z"
+    },
+    "ee4a0db1-2777-4f91-808c-d391516f6805": {
+      "id": "ee4a0db1-2777-4f91-808c-d391516f6805",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "name": "Audit Web Workspace",
+      "description": null,
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T05:31:40.751Z",
+      "updated_at": "2026-09-25T05:31:40.751Z"
+    },
+    "de3fd871-c01f-4748-aa4a-e82177f69020": {
+      "id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "name": "Audit Mobile App",
+      "description": null,
+      "stack": "Expo · React Native",
+      "target": "mobile",
+      "created_at": "2026-09-25T05:31:40.752Z",
+      "updated_at": "2026-09-25T05:31:40.752Z"
+    },
+    "7c159c15-f0f8-4df2-b45a-e2f421fb70c9": {
+      "id": "7c159c15-f0f8-4df2-b45a-e2f421fb70c9",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T05:32:38.908Z",
+      "updated_at": "2026-09-25T05:32:38.908Z"
+    },
+    "0a2a7522-5957-4da9-b889-2fc43060f6f2": {
+      "id": "0a2a7522-5957-4da9-b889-2fc43060f6f2",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "name": "Audit Web Workspace",
+      "description": null,
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T05:32:38.912Z",
+      "updated_at": "2026-09-25T05:32:38.912Z"
+    },
+    "e0db4c6d-3218-4c7e-9883-54841ad08ae7": {
+      "id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "name": "Audit Mobile App",
+      "description": null,
+      "stack": "Expo · React Native",
+      "target": "mobile",
+      "created_at": "2026-09-25T05:32:38.913Z",
+      "updated_at": "2026-09-25T05:32:38.913Z"
+    },
+    "28824389-6a88-4b37-85bc-dbdf70dfe978": {
+      "id": "28824389-6a88-4b37-85bc-dbdf70dfe978",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T05:33:37.235Z",
+      "updated_at": "2026-09-25T05:33:37.235Z"
+    },
+    "e8f371b1-19e2-460d-ae2b-90b9b9788cbb": {
+      "id": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "name": "Audit Web Workspace",
+      "description": null,
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T05:33:37.304Z",
+      "updated_at": "2026-09-25T05:33:37.304Z"
+    },
+    "d9b32850-638a-491f-bce8-9ea5dc1ac3c4": {
+      "id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "name": "Audit Mobile App",
+      "description": null,
+      "stack": "Expo · React Native",
+      "target": "mobile",
+      "created_at": "2026-09-25T05:33:37.306Z",
+      "updated_at": "2026-09-25T05:33:37.306Z"
+    },
+    "c5917e45-63b0-40c0-b321-4e872460df02": {
+      "id": "c5917e45-63b0-40c0-b321-4e872460df02",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T05:59:55.763Z",
+      "updated_at": "2026-09-25T05:59:55.763Z"
+    },
+    "784c2e39-30e9-4371-a493-b870d5f572f8": {
+      "id": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "name": "Audit Web Workspace",
+      "description": null,
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T05:59:55.876Z",
+      "updated_at": "2026-09-25T05:59:55.876Z"
+    },
+    "666e32c9-a848-4457-a9a5-e163ad319144": {
+      "id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "name": "Audit Mobile App",
+      "description": null,
+      "stack": "Expo · React Native",
+      "target": "mobile",
+      "created_at": "2026-09-25T05:59:55.877Z",
+      "updated_at": "2026-09-25T05:59:55.877Z"
+    },
+    "32dc5208-df65-41f4-8570-4095945d0cd7": {
+      "id": "32dc5208-df65-41f4-8570-4095945d0cd7",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "name": "My First Project",
+      "description": "Starter workspace in VX",
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T06:48:17.086Z",
+      "updated_at": "2026-09-25T06:48:17.086Z"
+    },
+    "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2": {
+      "id": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "name": "Audit Web Workspace",
+      "description": null,
+      "stack": "Next.js",
+      "target": "web",
+      "created_at": "2026-09-25T06:48:17.091Z",
+      "updated_at": "2026-09-25T06:48:17.091Z"
+    },
+    "21f27d1e-3904-45ca-a9e1-83aca04e1c8e": {
+      "id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "name": "Audit Mobile App",
+      "description": null,
+      "stack": "Expo · React Native",
+      "target": "mobile",
+      "created_at": "2026-09-25T06:48:17.092Z",
+      "updated_at": "2026-09-25T06:48:17.092Z"
+    }
+  },
+  "conversations": {
+    "e95e075d-45b3-4b84-a982-2f3850b1fad8": {
+      "id": "e95e075d-45b3-4b84-a982-2f3850b1fad8",
+      "user_id": "c0524d37-011b-43ef-8cb0-217fa9c6ed22",
+      "project_id": "a32c8a3c-4f0c-4bda-aca8-a2f475109988",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T19:22:08.128Z",
+      "updated_at": "2026-09-23T19:22:08.128Z"
+    },
+    "ddc4d77b-ec6e-4ce0-a068-5f23fef0178c": {
+      "id": "ddc4d77b-ec6e-4ce0-a068-5f23fef0178c",
+      "project_id": "68142ed0-b402-49c8-929d-3647856d5688",
+      "title": "Voice Continuity Session",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T19:22:08.286Z",
+      "updated_at": "2026-09-23T19:22:08.286Z"
+    },
+    "5bb95a11-da8b-4297-88dc-b32c648dc527": {
+      "id": "5bb95a11-da8b-4297-88dc-b32c648dc527",
+      "user_id": "133eeb1b-9408-45f0-b017-8357aa3fa2ff",
+      "project_id": "a5200a5d-4f3f-4c60-94d3-0eabb2f1f323",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T19:40:41.245Z",
+      "updated_at": "2026-09-23T19:40:41.245Z"
+    },
+    "07b30cf3-08b4-4772-9410-e3418923fe8e": {
+      "id": "07b30cf3-08b4-4772-9410-e3418923fe8e",
+      "user_id": "b1e382ec-ae41-4164-b76e-1416e568c01e",
+      "project_id": "61e5b9b5-66cc-4faf-ab1f-088dbd64497e",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T19:41:09.893Z",
+      "updated_at": "2026-09-23T19:41:09.893Z"
+    },
+    "3b95bdba-ed06-49c4-ad19-2565b631b0d0": {
+      "id": "3b95bdba-ed06-49c4-ad19-2565b631b0d0",
+      "user_id": "fbb949e4-8e12-4e3d-890a-54b7513dcda5",
+      "project_id": "5be23dc7-3f5b-4a53-81b9-19212de10343",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T19:41:57.753Z",
+      "updated_at": "2026-09-23T19:41:57.753Z"
+    },
+    "f240e41b-5b17-479c-96b7-51fa3936f337": {
+      "id": "f240e41b-5b17-479c-96b7-51fa3936f337",
+      "user_id": "de4d8667-f3ba-4999-a965-72814c340d51",
+      "project_id": "cbd74302-628c-4898-af59-7398589ddbdd",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T20:14:35.811Z",
+      "updated_at": "2026-09-23T20:14:35.811Z"
+    },
+    "0c4abda2-3b7d-4f7d-af27-17eb81135486": {
+      "id": "0c4abda2-3b7d-4f7d-af27-17eb81135486",
+      "user_id": "24d4b716-cc88-45cf-949b-9a72581ec1bc",
+      "project_id": "4af55d04-e0ec-48d3-85e1-891375c4ea49",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T20:14:53.749Z",
+      "updated_at": "2026-09-23T20:14:53.749Z"
+    },
+    "6f37b5a4-d4ab-41d4-a036-b868862a931e": {
+      "id": "6f37b5a4-d4ab-41d4-a036-b868862a931e",
+      "user_id": "07ead4f4-1731-4025-9190-26c059eb835f",
+      "project_id": "be994a37-55be-4a57-8bf9-75de88d343eb",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T20:15:10.928Z",
+      "updated_at": "2026-09-23T20:15:10.928Z"
+    },
+    "d4d83c77-606c-467c-8496-06090575fb28": {
+      "id": "d4d83c77-606c-467c-8496-06090575fb28",
+      "user_id": "da8feaac-f1cc-4103-89ce-7357e5ff2283",
+      "project_id": "4982a21a-4c8a-48df-bde0-1350de9bf743",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T20:15:24.795Z",
+      "updated_at": "2026-09-23T20:15:24.795Z"
+    },
+    "515fa9f9-3793-44ff-ac22-0584ee32e5b0": {
+      "id": "515fa9f9-3793-44ff-ac22-0584ee32e5b0",
+      "user_id": "757ea438-9a36-4df0-ae46-c2b23b70d238",
+      "project_id": "649f3bf1-bea3-4be2-a3db-b4a95b57b7c2",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T20:15:44.600Z",
+      "updated_at": "2026-09-23T20:15:44.600Z"
+    },
+    "c3befc88-4df8-4d03-bc57-61d553c13d53": {
+      "id": "c3befc88-4df8-4d03-bc57-61d553c13d53",
+      "user_id": "70097c68-358a-4cca-bc3c-321ca3d80766",
+      "project_id": "e724ea9c-7331-46f8-a9bf-70887c0dba0a",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-23T20:16:01.461Z",
+      "updated_at": "2026-09-23T20:16:01.461Z"
+    },
+    "a18c29eb-cfb6-459b-8ea0-38223e16ace6": {
+      "id": "a18c29eb-cfb6-459b-8ea0-38223e16ace6",
+      "user_id": "user_p6_test_1",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "title": "Agent Test Convo",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T05:43:52.834Z",
+      "updated_at": "2026-09-24T05:43:52.834Z"
+    },
+    "bf098b5a-4250-4283-8118-d0efcf775c15": {
+      "id": "bf098b5a-4250-4283-8118-d0efcf775c15",
+      "user_id": "user_p6_test_1",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "title": "Agent Test Convo",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T05:45:22.271Z",
+      "updated_at": "2026-09-24T05:45:22.271Z"
+    },
+    "10dd248e-9900-4dc0-9cb7-9d45b21e0f52": {
+      "id": "10dd248e-9900-4dc0-9cb7-9d45b21e0f52",
+      "user_id": "044af8d5-0fba-413a-9b62-947169a58dca",
+      "project_id": "eee0cc5f-70a6-40fb-a86e-1fd30e925875",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T05:46:31.662Z",
+      "updated_at": "2026-09-24T05:46:31.662Z"
+    },
+    "c18f7c3c-6d1a-42e5-b87b-508d0bfbd208": {
+      "id": "c18f7c3c-6d1a-42e5-b87b-508d0bfbd208",
+      "project_id": "68ec7b8f-a9c8-4cdc-9c13-5ed5d66d2888",
+      "title": "Voice Continuity Session",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T05:46:31.663Z",
+      "updated_at": "2026-09-24T05:46:31.663Z"
+    },
+    "90fa4d3c-d086-436b-a643-33e6e921fece": {
+      "id": "90fa4d3c-d086-436b-a643-33e6e921fece",
+      "user_id": "user_p6_test_1",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "title": "Agent Test Convo",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T05:46:37.117Z",
+      "updated_at": "2026-09-24T05:46:37.117Z"
+    },
+    "ad088468-e134-4927-a168-eed38e3df8ed": {
+      "id": "ad088468-e134-4927-a168-eed38e3df8ed",
+      "user_id": "user_p6_test_1",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "title": "Agent Test Convo",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T05:57:36.167Z",
+      "updated_at": "2026-09-24T05:57:36.167Z"
+    },
+    "4fe08d31-5a00-4bc6-8e7c-5b1955d0afc4": {
+      "id": "4fe08d31-5a00-4bc6-8e7c-5b1955d0afc4",
+      "user_id": "a3ee1f30-768a-403c-b9fa-46da1cb86c3a",
+      "project_id": "0108290f-8f1c-49b8-86ac-d0136add8c8d",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T05:57:44.144Z",
+      "updated_at": "2026-09-24T05:57:44.144Z"
+    },
+    "718589e7-ba5b-4a80-ae3e-a9ea2e650a2a": {
+      "id": "718589e7-ba5b-4a80-ae3e-a9ea2e650a2a",
+      "project_id": "a36d7dbf-415e-4be1-b85c-71c799e7efc9",
+      "title": "Voice Continuity Session",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T05:57:44.145Z",
+      "updated_at": "2026-09-24T05:57:44.145Z"
+    },
+    "e7dae42f-1f4a-4467-837c-c6d017e5c858": {
+      "id": "e7dae42f-1f4a-4467-837c-c6d017e5c858",
+      "user_id": "user_p6_test_1",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "title": "Agent Test Convo",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-24T06:00:08.502Z",
+      "updated_at": "2026-09-24T06:00:08.502Z"
+    },
+    "d01211e0-3117-4adc-a3b1-0bd50f950aae": {
+      "id": "d01211e0-3117-4adc-a3b1-0bd50f950aae",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "project_id": "fdaac850-dc64-4f2f-b295-9a252af968ac",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T05:31:40.748Z",
+      "updated_at": "2026-09-25T05:31:40.748Z"
+    },
+    "8d6735f6-4c3e-4e1e-8904-15f569654626": {
+      "id": "8d6735f6-4c3e-4e1e-8904-15f569654626",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "project_id": "ee4a0db1-2777-4f91-808c-d391516f6805",
+      "title": "Audit System Chat",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T05:31:40.754Z",
+      "updated_at": "2026-09-25T05:31:40.756Z"
+    },
+    "0da7e4ab-835c-4662-8c2d-763d758df561": {
+      "id": "0da7e4ab-835c-4662-8c2d-763d758df561",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "project_id": "7c159c15-f0f8-4df2-b45a-e2f421fb70c9",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T05:32:38.909Z",
+      "updated_at": "2026-09-25T05:32:38.909Z"
+    },
+    "b2a8d363-8da9-41d2-8f85-ee4012a84902": {
+      "id": "b2a8d363-8da9-41d2-8f85-ee4012a84902",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "project_id": "0a2a7522-5957-4da9-b889-2fc43060f6f2",
+      "title": "Audit System Chat",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T05:32:38.915Z",
+      "updated_at": "2026-09-25T05:32:38.916Z"
+    },
+    "279e594e-5941-4805-a0ad-54f89bbaf0a0": {
+      "id": "279e594e-5941-4805-a0ad-54f89bbaf0a0",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "project_id": "28824389-6a88-4b37-85bc-dbdf70dfe978",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T05:33:37.300Z",
+      "updated_at": "2026-09-25T05:33:37.300Z"
+    },
+    "1b1fc9a0-7671-40d9-afa7-499c7c171150": {
+      "id": "1b1fc9a0-7671-40d9-afa7-499c7c171150",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "project_id": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "title": "Audit System Chat",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T05:33:37.309Z",
+      "updated_at": "2026-09-25T05:33:37.311Z"
+    },
+    "ece9c956-d148-487a-bf70-98b1d9504824": {
+      "id": "ece9c956-d148-487a-bf70-98b1d9504824",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "project_id": "c5917e45-63b0-40c0-b321-4e872460df02",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T05:59:55.873Z",
+      "updated_at": "2026-09-25T05:59:55.873Z"
+    },
+    "5704cce7-18c4-4b74-977a-12b8f762fc2e": {
+      "id": "5704cce7-18c4-4b74-977a-12b8f762fc2e",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "project_id": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "title": "Audit System Chat",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T05:59:55.879Z",
+      "updated_at": "2026-09-25T05:59:55.880Z"
+    },
+    "93a18033-6287-4dd1-80a0-c524890f3dda": {
+      "id": "93a18033-6287-4dd1-80a0-c524890f3dda",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "project_id": "32dc5208-df65-41f4-8570-4095945d0cd7",
+      "title": "Getting started with VX",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T06:48:17.088Z",
+      "updated_at": "2026-09-25T06:48:17.088Z"
+    },
+    "86ef363e-e1f2-4dd5-a498-ae7f4c63c21b": {
+      "id": "86ef363e-e1f2-4dd5-a498-ae7f4c63c21b",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "project_id": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "title": "Audit System Chat",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-09-25T06:48:17.094Z",
+      "updated_at": "2026-09-25T06:48:17.096Z"
+    }
+  },
+  "messages": {
+    "34bf50c7-c14d-4abc-927d-2c9e4e3931f3": {
+      "id": "34bf50c7-c14d-4abc-927d-2c9e4e3931f3",
+      "conversation_id": "8d6735f6-4c3e-4e1e-8904-15f569654626",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "role": "user",
+      "content": "Audit initial system message",
+      "metadata": {},
+      "created_at": "2026-09-25T05:31:40.756Z"
+    },
+    "dbda64f7-5654-4b3e-94d1-13291d900d34": {
+      "id": "dbda64f7-5654-4b3e-94d1-13291d900d34",
+      "conversation_id": "b2a8d363-8da9-41d2-8f85-ee4012a84902",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "role": "user",
+      "content": "Audit initial system message",
+      "metadata": {},
+      "created_at": "2026-09-25T05:32:38.916Z"
+    },
+    "c542ecc8-987d-4d49-8800-a0b4bbcc15ae": {
+      "id": "c542ecc8-987d-4d49-8800-a0b4bbcc15ae",
+      "conversation_id": "1b1fc9a0-7671-40d9-afa7-499c7c171150",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "role": "user",
+      "content": "Audit initial system message",
+      "metadata": {},
+      "created_at": "2026-09-25T05:33:37.311Z"
+    },
+    "16c89da1-8a72-4a14-88ca-08e6ee323311": {
+      "id": "16c89da1-8a72-4a14-88ca-08e6ee323311",
+      "conversation_id": "5704cce7-18c4-4b74-977a-12b8f762fc2e",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "role": "user",
+      "content": "Audit initial system message",
+      "metadata": {},
+      "created_at": "2026-09-25T05:59:55.880Z"
+    },
+    "c61e4a5c-a86b-441f-aefa-fea6066d61fd": {
+      "id": "c61e4a5c-a86b-441f-aefa-fea6066d61fd",
+      "conversation_id": "86ef363e-e1f2-4dd5-a498-ae7f4c63c21b",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "role": "user",
+      "content": "Audit initial system message",
+      "metadata": {},
+      "created_at": "2026-09-25T06:48:17.096Z"
+    }
+  },
+  "aiUsageLogs": {
+    "6d4fb70d-7c3b-4e15-8672-9626fe3317c5": {
+      "id": "6d4fb70d-7c3b-4e15-8672-9626fe3317c5",
+      "user_id": "user_p6_test_1",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "conversation_id": "a18c29eb-cfb6-459b-8ea0-38223e16ace6",
+      "model_id": "gemini/gemini-3.8-flash",
+      "provider": "gemini",
+      "prompt_tokens": 377,
+      "completion_tokens": 6,
+      "total_tokens": 502,
+      "status": "success",
+      "error_message": null,
+      "created_at": "2026-09-24T05:43:56.600Z"
+    },
+    "65a32bf0-2dc4-4fcf-9bfd-4b5d82250485": {
+      "id": "65a32bf0-2dc4-4fcf-9bfd-4b5d82250485",
+      "user_id": "user_p6_test_1",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "conversation_id": "bf098b5a-4250-4283-8118-d0efcf775c15",
+      "model_id": "gemini/gemini-flash-lite-latest",
+      "provider": "gemini",
+      "prompt_tokens": 377,
+      "completion_tokens": 6,
+      "total_tokens": 383,
+      "status": "success",
+      "error_message": null,
+      "created_at": "2026-09-24T05:45:25.327Z"
+    },
+    "167323a9-3eea-4086-9e48-2d5104c4de7b": {
+      "id": "167323a9-3eea-4086-9e48-2d5104c4de7b",
+      "user_id": "user_p6_test_1",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "conversation_id": "90fa4d3c-d086-436b-a643-33e6e921fece",
+      "model_id": "gemini/gemini-flash-latest",
+      "provider": "gemini",
+      "prompt_tokens": 377,
+      "completion_tokens": 6,
+      "total_tokens": 500,
+      "status": "success",
+      "error_message": null,
+      "created_at": "2026-09-24T05:46:39.718Z"
+    },
+    "e2fb847f-f31c-4169-8f20-6de094c06fd3": {
+      "id": "e2fb847f-f31c-4169-8f20-6de094c06fd3",
+      "user_id": "user_p6_test_1",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "conversation_id": "ad088468-e134-4927-a168-eed38e3df8ed",
+      "model_id": "gemini/gemini-flash-lite-latest",
+      "provider": "gemini",
+      "prompt_tokens": 377,
+      "completion_tokens": 6,
+      "total_tokens": 383,
+      "status": "success",
+      "error_message": null,
+      "created_at": "2026-09-24T05:57:39.419Z"
+    },
+    "29ff841f-143f-4443-9189-9232690954cb": {
+      "id": "29ff841f-143f-4443-9189-9232690954cb",
+      "user_id": "user_p6_test_1",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "conversation_id": "e7dae42f-1f4a-4467-837c-c6d017e5c858",
+      "model_id": "gemini/gemini-flash-latest",
+      "provider": "gemini",
+      "prompt_tokens": 377,
+      "completion_tokens": 6,
+      "total_tokens": 551,
+      "status": "success",
+      "error_message": null,
+      "created_at": "2026-09-24T06:00:29.042Z"
+    }
+  },
+  "projectFiles": {
+    "d6c7e3d3-73f7-44c4-86ba-ac907134d3e7": {
+      "id": "d6c7e3d3-73f7-44c4-86ba-ac907134d3e7",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "user_id": "user_p6_test_1",
+      "path": "src/App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "mime_type": "text/plain",
+      "size": 63,
+      "version": 3,
+      "created_at": "2026-09-24T05:43:52.814Z",
+      "updated_at": "2026-09-24T05:43:52.832Z"
+    },
+    "702b5e8f-ace4-4d32-be3e-b235396baad2": {
+      "id": "702b5e8f-ace4-4d32-be3e-b235396baad2",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "user_id": "user_p6_test_1",
+      "path": "components",
+      "name": "components",
+      "is_folder": true,
+      "content": "",
+      "mime_type": "folder",
+      "size": 0,
+      "version": 1,
+      "created_at": "2026-09-24T05:43:52.816Z",
+      "updated_at": "2026-09-24T05:43:52.816Z"
+    },
+    "ff6c4b3f-3de2-4d7e-b14b-f4449f7b09ce": {
+      "id": "ff6c4b3f-3de2-4d7e-b14b-f4449f7b09ce",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "user_id": "user_p6_test_1",
+      "path": "components/New.tsx",
+      "name": "New.tsx",
+      "is_folder": false,
+      "content": "old code",
+      "mime_type": "text/plain",
+      "size": 8,
+      "version": 1,
+      "created_at": "2026-09-24T05:43:52.829Z",
+      "updated_at": "2026-09-24T05:43:52.829Z"
+    },
+    "7bebfbbe-86f3-4c4a-8ee4-47976d1d7892": {
+      "id": "7bebfbbe-86f3-4c4a-8ee4-47976d1d7892",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "user_id": "user_p6_test_1",
+      "path": "src/searchme.txt",
+      "name": "searchme.txt",
+      "is_folder": false,
+      "content": "unique_keyword_vx_search",
+      "mime_type": "text/plain",
+      "size": 24,
+      "version": 1,
+      "created_at": "2026-09-24T05:43:52.829Z",
+      "updated_at": "2026-09-24T05:43:52.829Z"
+    },
+    "e6262696-35eb-41a4-8322-a2482c81a2f9": {
+      "id": "e6262696-35eb-41a4-8322-a2482c81a2f9",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "user_id": "user_p6_test_1",
+      "path": "src/App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "mime_type": "text/plain",
+      "size": 63,
+      "version": 3,
+      "created_at": "2026-09-24T05:45:22.252Z",
+      "updated_at": "2026-09-24T05:45:22.269Z"
+    },
+    "42bbe1f2-f520-48c8-8524-21cd30efc859": {
+      "id": "42bbe1f2-f520-48c8-8524-21cd30efc859",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "user_id": "user_p6_test_1",
+      "path": "components",
+      "name": "components",
+      "is_folder": true,
+      "content": "",
+      "mime_type": "folder",
+      "size": 0,
+      "version": 1,
+      "created_at": "2026-09-24T05:45:22.253Z",
+      "updated_at": "2026-09-24T05:45:22.253Z"
+    },
+    "ebe837ac-d2ab-4e85-b30e-9cf3f06b3144": {
+      "id": "ebe837ac-d2ab-4e85-b30e-9cf3f06b3144",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "user_id": "user_p6_test_1",
+      "path": "components/New.tsx",
+      "name": "New.tsx",
+      "is_folder": false,
+      "content": "old code",
+      "mime_type": "text/plain",
+      "size": 8,
+      "version": 1,
+      "created_at": "2026-09-24T05:45:22.266Z",
+      "updated_at": "2026-09-24T05:45:22.266Z"
+    },
+    "a1ab0d69-4501-4776-afa1-d87114b8c15d": {
+      "id": "a1ab0d69-4501-4776-afa1-d87114b8c15d",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "user_id": "user_p6_test_1",
+      "path": "src/searchme.txt",
+      "name": "searchme.txt",
+      "is_folder": false,
+      "content": "unique_keyword_vx_search",
+      "mime_type": "text/plain",
+      "size": 24,
+      "version": 1,
+      "created_at": "2026-09-24T05:45:22.267Z",
+      "updated_at": "2026-09-24T05:45:22.267Z"
+    },
+    "5a813588-9933-4851-89f5-6b0f9ce3d33c": {
+      "id": "5a813588-9933-4851-89f5-6b0f9ce3d33c",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "user_id": "user_p6_test_1",
+      "path": "src/App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "mime_type": "text/plain",
+      "size": 63,
+      "version": 3,
+      "created_at": "2026-09-24T05:46:37.084Z",
+      "updated_at": "2026-09-24T05:46:37.114Z"
+    },
+    "79e9cd7f-a3f4-441c-b6b8-4a9c35fdd5ab": {
+      "id": "79e9cd7f-a3f4-441c-b6b8-4a9c35fdd5ab",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "user_id": "user_p6_test_1",
+      "path": "components",
+      "name": "components",
+      "is_folder": true,
+      "content": "",
+      "mime_type": "folder",
+      "size": 0,
+      "version": 1,
+      "created_at": "2026-09-24T05:46:37.087Z",
+      "updated_at": "2026-09-24T05:46:37.087Z"
+    },
+    "db787a79-25d9-4185-9a9d-d1b97badbb9f": {
+      "id": "db787a79-25d9-4185-9a9d-d1b97badbb9f",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "user_id": "user_p6_test_1",
+      "path": "components/New.tsx",
+      "name": "New.tsx",
+      "is_folder": false,
+      "content": "old code",
+      "mime_type": "text/plain",
+      "size": 8,
+      "version": 1,
+      "created_at": "2026-09-24T05:46:37.109Z",
+      "updated_at": "2026-09-24T05:46:37.109Z"
+    },
+    "d7b528a4-0f12-4bc4-8769-a2ccc73c0ced": {
+      "id": "d7b528a4-0f12-4bc4-8769-a2ccc73c0ced",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "user_id": "user_p6_test_1",
+      "path": "src/searchme.txt",
+      "name": "searchme.txt",
+      "is_folder": false,
+      "content": "unique_keyword_vx_search",
+      "mime_type": "text/plain",
+      "size": 24,
+      "version": 1,
+      "created_at": "2026-09-24T05:46:37.111Z",
+      "updated_at": "2026-09-24T05:46:37.111Z"
+    },
+    "4840cd56-a618-4025-8ee9-cbe55bb5e03b": {
+      "id": "4840cd56-a618-4025-8ee9-cbe55bb5e03b",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "user_id": "user_p6_test_1",
+      "path": "src/App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "mime_type": "text/plain",
+      "size": 63,
+      "version": 3,
+      "created_at": "2026-09-24T05:57:36.144Z",
+      "updated_at": "2026-09-24T05:57:36.164Z"
+    },
+    "766115e2-535f-42ea-b339-a1b4324d2989": {
+      "id": "766115e2-535f-42ea-b339-a1b4324d2989",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "user_id": "user_p6_test_1",
+      "path": "components",
+      "name": "components",
+      "is_folder": true,
+      "content": "",
+      "mime_type": "folder",
+      "size": 0,
+      "version": 1,
+      "created_at": "2026-09-24T05:57:36.147Z",
+      "updated_at": "2026-09-24T05:57:36.147Z"
+    },
+    "3911fc9a-f165-4de1-a8ca-32d1f3b540bc": {
+      "id": "3911fc9a-f165-4de1-a8ca-32d1f3b540bc",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "user_id": "user_p6_test_1",
+      "path": "components/New.tsx",
+      "name": "New.tsx",
+      "is_folder": false,
+      "content": "old code",
+      "mime_type": "text/plain",
+      "size": 8,
+      "version": 1,
+      "created_at": "2026-09-24T05:57:36.160Z",
+      "updated_at": "2026-09-24T05:57:36.160Z"
+    },
+    "eacec09d-f01d-4ddb-a5ee-827a691b4ed0": {
+      "id": "eacec09d-f01d-4ddb-a5ee-827a691b4ed0",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "user_id": "user_p6_test_1",
+      "path": "src/searchme.txt",
+      "name": "searchme.txt",
+      "is_folder": false,
+      "content": "unique_keyword_vx_search",
+      "mime_type": "text/plain",
+      "size": 24,
+      "version": 1,
+      "created_at": "2026-09-24T05:57:36.162Z",
+      "updated_at": "2026-09-24T05:57:36.162Z"
+    },
+    "d35d29bb-1ed2-411f-8fdb-0f8177a64301": {
+      "id": "d35d29bb-1ed2-411f-8fdb-0f8177a64301",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "user_id": "user_p6_test_1",
+      "path": "src/App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "mime_type": "text/plain",
+      "size": 63,
+      "version": 3,
+      "created_at": "2026-09-24T06:00:08.477Z",
+      "updated_at": "2026-09-24T06:00:08.499Z"
+    },
+    "09aae812-3b77-4d7f-88a1-36148a1c5b47": {
+      "id": "09aae812-3b77-4d7f-88a1-36148a1c5b47",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "user_id": "user_p6_test_1",
+      "path": "components",
+      "name": "components",
+      "is_folder": true,
+      "content": "",
+      "mime_type": "folder",
+      "size": 0,
+      "version": 1,
+      "created_at": "2026-09-24T06:00:08.481Z",
+      "updated_at": "2026-09-24T06:00:08.481Z"
+    },
+    "877a69e2-f8ed-4bae-8f4d-8f7aad29e0e5": {
+      "id": "877a69e2-f8ed-4bae-8f4d-8f7aad29e0e5",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "user_id": "user_p6_test_1",
+      "path": "components/New.tsx",
+      "name": "New.tsx",
+      "is_folder": false,
+      "content": "old code",
+      "mime_type": "text/plain",
+      "size": 8,
+      "version": 1,
+      "created_at": "2026-09-24T06:00:08.495Z",
+      "updated_at": "2026-09-24T06:00:08.495Z"
+    },
+    "98cc5252-47b1-48fa-bf5d-b67b271ae343": {
+      "id": "98cc5252-47b1-48fa-bf5d-b67b271ae343",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "user_id": "user_p6_test_1",
+      "path": "src/searchme.txt",
+      "name": "searchme.txt",
+      "is_folder": false,
+      "content": "unique_keyword_vx_search",
+      "mime_type": "text/plain",
+      "size": 24,
+      "version": 1,
+      "created_at": "2026-09-24T06:00:08.496Z",
+      "updated_at": "2026-09-24T06:00:08.496Z"
+    },
+    "d0999bfc-ed84-4c7f-a197-78f4c0b2565e": {
+      "id": "d0999bfc-ed84-4c7f-a197-78f4c0b2565e",
+      "project_id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "user_id": "test-user-p16-1790306405411",
+      "path": "package.json",
+      "name": "package.json",
+      "is_folder": false,
+      "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+      "mime_type": "application/json",
+      "size": 675,
+      "version": 1,
+      "created_at": "2026-09-25T03:20:05.828Z",
+      "updated_at": "2026-09-25T03:20:05.828Z"
+    },
+    "d6b36d47-6571-45d5-8c93-ca3641c47534": {
+      "id": "d6b36d47-6571-45d5-8c93-ca3641c47534",
+      "project_id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "user_id": "test-user-p16-1790306405411",
+      "path": "app.json",
+      "name": "app.json",
+      "is_folder": false,
+      "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+      "mime_type": "application/json",
+      "size": 556,
+      "version": 1,
+      "created_at": "2026-09-25T03:20:05.828Z",
+      "updated_at": "2026-09-25T03:20:05.828Z"
+    },
+    "c9e154a5-2da1-4a2e-97f2-bd6f971af436": {
+      "id": "c9e154a5-2da1-4a2e-97f2-bd6f971af436",
+      "project_id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "user_id": "test-user-p16-1790306405411",
+      "path": "App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+      "mime_type": "text/typescript",
+      "size": 1520,
+      "version": 1,
+      "created_at": "2026-09-25T03:20:05.828Z",
+      "updated_at": "2026-09-25T03:20:05.828Z"
+    },
+    "b04babca-222e-406d-b3c5-ac8bd7650f45": {
+      "id": "b04babca-222e-406d-b3c5-ac8bd7650f45",
+      "project_id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "user_id": "test-user-p16-1790306405411",
+      "path": ".env.example",
+      "name": ".env.example",
+      "is_folder": false,
+      "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+      "mime_type": "text/plain",
+      "size": 168,
+      "version": 1,
+      "created_at": "2026-09-25T03:20:05.828Z",
+      "updated_at": "2026-09-25T03:20:05.828Z"
+    },
+    "28ad6ebd-2f07-4aec-9bd9-f2c91636c45f": {
+      "id": "28ad6ebd-2f07-4aec-9bd9-f2c91636c45f",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "path": "package.json",
+      "name": "package.json",
+      "is_folder": false,
+      "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+      "mime_type": "application/json",
+      "size": 675,
+      "version": 1,
+      "created_at": "2026-09-25T03:25:14.027Z",
+      "updated_at": "2026-09-25T03:25:14.027Z"
+    },
+    "8a68df7f-c05a-4989-ae6f-d4ed3a96767f": {
+      "id": "8a68df7f-c05a-4989-ae6f-d4ed3a96767f",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "path": "app.json",
+      "name": "app.json",
+      "is_folder": false,
+      "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+      "mime_type": "application/json",
+      "size": 556,
+      "version": 1,
+      "created_at": "2026-09-25T03:25:14.027Z",
+      "updated_at": "2026-09-25T03:25:14.027Z"
+    },
+    "305a9614-6df7-4409-b74d-c9dba3981d57": {
+      "id": "305a9614-6df7-4409-b74d-c9dba3981d57",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "path": "App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+      "mime_type": "text/typescript",
+      "size": 1520,
+      "version": 1,
+      "created_at": "2026-09-25T03:25:14.027Z",
+      "updated_at": "2026-09-25T03:25:14.027Z"
+    },
+    "7049617f-92d4-402b-9c9c-949664b973e6": {
+      "id": "7049617f-92d4-402b-9c9c-949664b973e6",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "path": ".env.example",
+      "name": ".env.example",
+      "is_folder": false,
+      "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+      "mime_type": "text/plain",
+      "size": 168,
+      "version": 1,
+      "created_at": "2026-09-25T03:25:14.027Z",
+      "updated_at": "2026-09-25T03:25:14.027Z"
+    },
+    "3238878b-cc97-4165-ad3b-5e38878a27f5": {
+      "id": "3238878b-cc97-4165-ad3b-5e38878a27f5",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "path": "src/config.ts",
+      "name": "config.ts",
+      "is_folder": false,
+      "content": "const key = \"GEMINI_API_KEY_AIzaSy12345\"",
+      "mime_type": "text/plain",
+      "size": 40,
+      "version": 1,
+      "created_at": "2026-09-25T03:25:17.244Z",
+      "updated_at": "2026-09-25T03:25:17.244Z"
+    },
+    "1587f5be-1c30-46b7-a3be-c619fa3b2098": {
+      "id": "1587f5be-1c30-46b7-a3be-c619fa3b2098",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "path": "package.json",
+      "name": "package.json",
+      "is_folder": false,
+      "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+      "mime_type": "application/json",
+      "size": 675,
+      "version": 1,
+      "created_at": "2026-09-25T05:31:40.752Z",
+      "updated_at": "2026-09-25T05:31:40.752Z"
+    },
+    "2f7578bc-1285-41ad-8a35-acb081644543": {
+      "id": "2f7578bc-1285-41ad-8a35-acb081644543",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "path": "app.json",
+      "name": "app.json",
+      "is_folder": false,
+      "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+      "mime_type": "application/json",
+      "size": 556,
+      "version": 1,
+      "created_at": "2026-09-25T05:31:40.752Z",
+      "updated_at": "2026-09-25T05:31:40.752Z"
+    },
+    "4b9efdfe-7387-45d6-a1f2-a1d3d95d2d46": {
+      "id": "4b9efdfe-7387-45d6-a1f2-a1d3d95d2d46",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "path": "App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+      "mime_type": "text/typescript",
+      "size": 1520,
+      "version": 1,
+      "created_at": "2026-09-25T05:31:40.752Z",
+      "updated_at": "2026-09-25T05:31:40.752Z"
+    },
+    "e87a5e17-f30f-4260-91fb-616d2e8820fd": {
+      "id": "e87a5e17-f30f-4260-91fb-616d2e8820fd",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "path": ".env.example",
+      "name": ".env.example",
+      "is_folder": false,
+      "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+      "mime_type": "text/plain",
+      "size": 168,
+      "version": 1,
+      "created_at": "2026-09-25T05:31:40.752Z",
+      "updated_at": "2026-09-25T05:31:40.752Z"
+    },
+    "3190d7cb-9dc9-4df1-8219-593397fad920": {
+      "id": "3190d7cb-9dc9-4df1-8219-593397fad920",
+      "project_id": "ee4a0db1-2777-4f91-808c-d391516f6805",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "path": "src/config/app.ts",
+      "name": "app.ts",
+      "is_folder": false,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "mime_type": "text/plain",
+      "size": 42,
+      "version": 1,
+      "created_at": "2026-09-25T05:31:41.099Z",
+      "updated_at": "2026-09-25T05:31:41.099Z"
+    },
+    "b06a3f4c-c16d-4878-bb58-26a8d5dad749": {
+      "id": "b06a3f4c-c16d-4878-bb58-26a8d5dad749",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "path": "package.json",
+      "name": "package.json",
+      "is_folder": false,
+      "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+      "mime_type": "application/json",
+      "size": 675,
+      "version": 1,
+      "created_at": "2026-09-25T05:32:38.913Z",
+      "updated_at": "2026-09-25T05:32:38.913Z"
+    },
+    "92439cac-b1a3-45d5-9f0a-1655dc0d8066": {
+      "id": "92439cac-b1a3-45d5-9f0a-1655dc0d8066",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "path": "app.json",
+      "name": "app.json",
+      "is_folder": false,
+      "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+      "mime_type": "application/json",
+      "size": 556,
+      "version": 1,
+      "created_at": "2026-09-25T05:32:38.913Z",
+      "updated_at": "2026-09-25T05:32:38.913Z"
+    },
+    "986a7bac-5ced-433f-88de-9afabf6eac8f": {
+      "id": "986a7bac-5ced-433f-88de-9afabf6eac8f",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "path": "App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+      "mime_type": "text/typescript",
+      "size": 1520,
+      "version": 1,
+      "created_at": "2026-09-25T05:32:38.913Z",
+      "updated_at": "2026-09-25T05:32:38.913Z"
+    },
+    "ee6925a6-0153-4ae5-91c9-b74543c052e8": {
+      "id": "ee6925a6-0153-4ae5-91c9-b74543c052e8",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "path": ".env.example",
+      "name": ".env.example",
+      "is_folder": false,
+      "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+      "mime_type": "text/plain",
+      "size": 168,
+      "version": 1,
+      "created_at": "2026-09-25T05:32:38.913Z",
+      "updated_at": "2026-09-25T05:32:38.913Z"
+    },
+    "833cb83d-5df9-432b-b88f-2feacbcd060a": {
+      "id": "833cb83d-5df9-432b-b88f-2feacbcd060a",
+      "project_id": "0a2a7522-5957-4da9-b889-2fc43060f6f2",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "path": "src/config/app.ts",
+      "name": "app.ts",
+      "is_folder": false,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "mime_type": "text/plain",
+      "size": 42,
+      "version": 1,
+      "created_at": "2026-09-25T05:32:39.261Z",
+      "updated_at": "2026-09-25T05:32:39.261Z"
+    },
+    "40f6f574-c3b6-4f5e-a367-96a23b800c7c": {
+      "id": "40f6f574-c3b6-4f5e-a367-96a23b800c7c",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "path": "package.json",
+      "name": "package.json",
+      "is_folder": false,
+      "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+      "mime_type": "application/json",
+      "size": 675,
+      "version": 1,
+      "created_at": "2026-09-25T05:33:37.306Z",
+      "updated_at": "2026-09-25T05:33:37.306Z"
+    },
+    "fa4046a2-92f1-473f-8e14-65b11dfc0d23": {
+      "id": "fa4046a2-92f1-473f-8e14-65b11dfc0d23",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "path": "app.json",
+      "name": "app.json",
+      "is_folder": false,
+      "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+      "mime_type": "application/json",
+      "size": 556,
+      "version": 1,
+      "created_at": "2026-09-25T05:33:37.306Z",
+      "updated_at": "2026-09-25T05:33:37.306Z"
+    },
+    "fa196ceb-dbe8-48bc-92bb-3a10bf94fb66": {
+      "id": "fa196ceb-dbe8-48bc-92bb-3a10bf94fb66",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "path": "App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+      "mime_type": "text/typescript",
+      "size": 1520,
+      "version": 1,
+      "created_at": "2026-09-25T05:33:37.306Z",
+      "updated_at": "2026-09-25T05:33:37.306Z"
+    },
+    "2d2dcf3d-7700-4407-99a7-2e450def41d8": {
+      "id": "2d2dcf3d-7700-4407-99a7-2e450def41d8",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "path": ".env.example",
+      "name": ".env.example",
+      "is_folder": false,
+      "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+      "mime_type": "text/plain",
+      "size": 168,
+      "version": 1,
+      "created_at": "2026-09-25T05:33:37.306Z",
+      "updated_at": "2026-09-25T05:33:37.306Z"
+    },
+    "01e7fbf3-0e8d-45d5-8515-bf9f2ce853d6": {
+      "id": "01e7fbf3-0e8d-45d5-8515-bf9f2ce853d6",
+      "project_id": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "path": "src/config/app.ts",
+      "name": "app.ts",
+      "is_folder": false,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "mime_type": "text/plain",
+      "size": 42,
+      "version": 1,
+      "created_at": "2026-09-25T05:33:37.660Z",
+      "updated_at": "2026-09-25T05:33:37.660Z"
+    },
+    "d2c379cf-5352-4ea3-8ddf-fa164d23c4f8": {
+      "id": "d2c379cf-5352-4ea3-8ddf-fa164d23c4f8",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "path": "package.json",
+      "name": "package.json",
+      "is_folder": false,
+      "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+      "mime_type": "application/json",
+      "size": 675,
+      "version": 1,
+      "created_at": "2026-09-25T05:59:55.877Z",
+      "updated_at": "2026-09-25T05:59:55.877Z"
+    },
+    "2c0c9e33-3c4f-4930-a1b6-65f1499e17aa": {
+      "id": "2c0c9e33-3c4f-4930-a1b6-65f1499e17aa",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "path": "app.json",
+      "name": "app.json",
+      "is_folder": false,
+      "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+      "mime_type": "application/json",
+      "size": 556,
+      "version": 1,
+      "created_at": "2026-09-25T05:59:55.877Z",
+      "updated_at": "2026-09-25T05:59:55.877Z"
+    },
+    "63849fb2-0aff-46be-b46f-2989e9fa503e": {
+      "id": "63849fb2-0aff-46be-b46f-2989e9fa503e",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "path": "App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+      "mime_type": "text/typescript",
+      "size": 1520,
+      "version": 1,
+      "created_at": "2026-09-25T05:59:55.877Z",
+      "updated_at": "2026-09-25T05:59:55.877Z"
+    },
+    "334340dd-80b8-4e21-903a-64f8f2e90959": {
+      "id": "334340dd-80b8-4e21-903a-64f8f2e90959",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "path": ".env.example",
+      "name": ".env.example",
+      "is_folder": false,
+      "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+      "mime_type": "text/plain",
+      "size": 168,
+      "version": 1,
+      "created_at": "2026-09-25T05:59:55.877Z",
+      "updated_at": "2026-09-25T05:59:55.877Z"
+    },
+    "4d6ce456-0b05-4fe9-9a71-63adcc05403f": {
+      "id": "4d6ce456-0b05-4fe9-9a71-63adcc05403f",
+      "project_id": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "path": "src/config/app.ts",
+      "name": "app.ts",
+      "is_folder": false,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "mime_type": "text/plain",
+      "size": 42,
+      "version": 1,
+      "created_at": "2026-09-25T05:59:56.050Z",
+      "updated_at": "2026-09-25T05:59:56.050Z"
+    },
+    "f7b89210-ece7-4eed-91e0-8521ffad0abb": {
+      "id": "f7b89210-ece7-4eed-91e0-8521ffad0abb",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "path": "package.json",
+      "name": "package.json",
+      "is_folder": false,
+      "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+      "mime_type": "application/json",
+      "size": 675,
+      "version": 1,
+      "created_at": "2026-09-25T06:48:17.092Z",
+      "updated_at": "2026-09-25T06:48:17.092Z"
+    },
+    "5729d086-347e-4e49-b312-f52072acd06a": {
+      "id": "5729d086-347e-4e49-b312-f52072acd06a",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "path": "app.json",
+      "name": "app.json",
+      "is_folder": false,
+      "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+      "mime_type": "application/json",
+      "size": 556,
+      "version": 1,
+      "created_at": "2026-09-25T06:48:17.092Z",
+      "updated_at": "2026-09-25T06:48:17.092Z"
+    },
+    "03713c65-6147-4b98-a95e-e23dae2ff765": {
+      "id": "03713c65-6147-4b98-a95e-e23dae2ff765",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "path": "App.tsx",
+      "name": "App.tsx",
+      "is_folder": false,
+      "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+      "mime_type": "text/typescript",
+      "size": 1520,
+      "version": 1,
+      "created_at": "2026-09-25T06:48:17.092Z",
+      "updated_at": "2026-09-25T06:48:17.092Z"
+    },
+    "dc075992-5c18-42ea-80e5-8e2874af96b9": {
+      "id": "dc075992-5c18-42ea-80e5-8e2874af96b9",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "path": ".env.example",
+      "name": ".env.example",
+      "is_folder": false,
+      "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+      "mime_type": "text/plain",
+      "size": 168,
+      "version": 1,
+      "created_at": "2026-09-25T06:48:17.092Z",
+      "updated_at": "2026-09-25T06:48:17.092Z"
+    },
+    "d26d113a-83ab-4034-8c06-7b9d11738d9b": {
+      "id": "d26d113a-83ab-4034-8c06-7b9d11738d9b",
+      "project_id": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "path": "src/config/app.ts",
+      "name": "app.ts",
+      "is_folder": false,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "mime_type": "text/plain",
+      "size": 42,
+      "version": 1,
+      "created_at": "2026-09-25T06:48:17.555Z",
+      "updated_at": "2026-09-25T06:48:17.555Z"
+    }
+  },
+  "projectFileVersions": {
+    "52485efe-ece7-400e-931b-fe761060861a": {
+      "id": "52485efe-ece7-400e-931b-fe761060861a",
+      "file_id": "d6c7e3d3-73f7-44c4-86ba-ac907134d3e7",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "version": 1,
+      "content": "export default function App() { return <div>Hello World</div> }",
+      "created_at": "2026-09-24T05:43:52.814Z"
+    },
+    "bb9a095d-9566-4c82-9559-5b6f395cc5d9": {
+      "id": "bb9a095d-9566-4c82-9559-5b6f395cc5d9",
+      "file_id": "d6c7e3d3-73f7-44c4-86ba-ac907134d3e7",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "version": 2,
+      "content": "export default function App() { return <div>Hello VX</div> }",
+      "created_at": "2026-09-24T05:43:52.815Z"
+    },
+    "e7278c98-5e36-4495-87a1-d5047e6f4cac": {
+      "id": "e7278c98-5e36-4495-87a1-d5047e6f4cac",
+      "file_id": "d389c1eb-2c87-4423-8d2d-91fac707ff64",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "version": 1,
+      "content": "temporary",
+      "created_at": "2026-09-24T05:43:52.815Z"
+    },
+    "a8eccbf1-9b9d-4133-8ab8-0938d8bb4e6c": {
+      "id": "a8eccbf1-9b9d-4133-8ab8-0938d8bb4e6c",
+      "file_id": "5130a32f-6448-47bc-b1fd-b64f27fc5960",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:43:52.817Z"
+    },
+    "b3b6b5b3-3903-4c8d-bf86-35e8afa25d1a": {
+      "id": "b3b6b5b3-3903-4c8d-bf86-35e8afa25d1a",
+      "file_id": "e1759d7b-01cb-4777-ad46-f5d5874f7795",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:43:52.828Z"
+    },
+    "d9ea6696-b30f-4c10-b18c-1efe9df9bb50": {
+      "id": "d9ea6696-b30f-4c10-b18c-1efe9df9bb50",
+      "file_id": "ff6c4b3f-3de2-4d7e-b14b-f4449f7b09ce",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:43:52.829Z"
+    },
+    "0b18ed0d-bf87-42c5-b675-91a6a90f4c57": {
+      "id": "0b18ed0d-bf87-42c5-b675-91a6a90f4c57",
+      "file_id": "7bebfbbe-86f3-4c4a-8ee4-47976d1d7892",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "version": 1,
+      "content": "unique_keyword_vx_search",
+      "created_at": "2026-09-24T05:43:52.829Z"
+    },
+    "65e0507a-75a5-46b0-8304-f4f8dd92949c": {
+      "id": "65e0507a-75a5-46b0-8304-f4f8dd92949c",
+      "file_id": "d6c7e3d3-73f7-44c4-86ba-ac907134d3e7",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "version": 3,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "created_at": "2026-09-24T05:43:52.832Z"
+    },
+    "82538838-8f7d-403a-a8e0-a4e13fa97c77": {
+      "id": "82538838-8f7d-403a-a8e0-a4e13fa97c77",
+      "file_id": "e6262696-35eb-41a4-8322-a2482c81a2f9",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "version": 1,
+      "content": "export default function App() { return <div>Hello World</div> }",
+      "created_at": "2026-09-24T05:45:22.252Z"
+    },
+    "8f53975f-0a21-4f18-9594-f1ad0e86a5be": {
+      "id": "8f53975f-0a21-4f18-9594-f1ad0e86a5be",
+      "file_id": "e6262696-35eb-41a4-8322-a2482c81a2f9",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "version": 2,
+      "content": "export default function App() { return <div>Hello VX</div> }",
+      "created_at": "2026-09-24T05:45:22.252Z"
+    },
+    "a87fa13a-3d63-445c-91ea-a3c2bc7dd412": {
+      "id": "a87fa13a-3d63-445c-91ea-a3c2bc7dd412",
+      "file_id": "97c6f879-d8f2-4dac-8770-dc96f18dcac8",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "version": 1,
+      "content": "temporary",
+      "created_at": "2026-09-24T05:45:22.253Z"
+    },
+    "15a0585a-627a-4559-a8cc-1dddc3a0a2cd": {
+      "id": "15a0585a-627a-4559-a8cc-1dddc3a0a2cd",
+      "file_id": "e2f13600-1fd1-4b37-aa13-83c2a18dc652",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:45:22.254Z"
+    },
+    "a6737bc4-3bbe-47d4-8d5f-e45da995beb1": {
+      "id": "a6737bc4-3bbe-47d4-8d5f-e45da995beb1",
+      "file_id": "07be4df7-4482-4508-b6ca-6222d3147cc4",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:45:22.265Z"
+    },
+    "b4f2ba1e-d41c-49ad-afbb-06c83cf17483": {
+      "id": "b4f2ba1e-d41c-49ad-afbb-06c83cf17483",
+      "file_id": "ebe837ac-d2ab-4e85-b30e-9cf3f06b3144",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:45:22.266Z"
+    },
+    "335baf82-4fc5-41c4-8f6b-e0eeb71a7f24": {
+      "id": "335baf82-4fc5-41c4-8f6b-e0eeb71a7f24",
+      "file_id": "a1ab0d69-4501-4776-afa1-d87114b8c15d",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "version": 1,
+      "content": "unique_keyword_vx_search",
+      "created_at": "2026-09-24T05:45:22.267Z"
+    },
+    "ebec3cda-0442-46bf-a0d2-870ffb02f3ad": {
+      "id": "ebec3cda-0442-46bf-a0d2-870ffb02f3ad",
+      "file_id": "e6262696-35eb-41a4-8322-a2482c81a2f9",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "version": 3,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "created_at": "2026-09-24T05:45:22.269Z"
+    },
+    "fc6911b5-eef3-4186-9b6c-f9a93fd579df": {
+      "id": "fc6911b5-eef3-4186-9b6c-f9a93fd579df",
+      "file_id": "5a813588-9933-4851-89f5-6b0f9ce3d33c",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "version": 1,
+      "content": "export default function App() { return <div>Hello World</div> }",
+      "created_at": "2026-09-24T05:46:37.084Z"
+    },
+    "a5987019-8cc4-4593-b662-7e3d5fbd328a": {
+      "id": "a5987019-8cc4-4593-b662-7e3d5fbd328a",
+      "file_id": "5a813588-9933-4851-89f5-6b0f9ce3d33c",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "version": 2,
+      "content": "export default function App() { return <div>Hello VX</div> }",
+      "created_at": "2026-09-24T05:46:37.085Z"
+    },
+    "61d74b44-d38f-4dde-99f6-9ed8b3a79c93": {
+      "id": "61d74b44-d38f-4dde-99f6-9ed8b3a79c93",
+      "file_id": "d6f4e373-b393-4e12-b48b-0a96eeeab343",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "version": 1,
+      "content": "temporary",
+      "created_at": "2026-09-24T05:46:37.086Z"
+    },
+    "fc8b8905-17f0-4705-af6f-aca026dcd67b": {
+      "id": "fc8b8905-17f0-4705-af6f-aca026dcd67b",
+      "file_id": "655ce6aa-e121-4b34-b4e7-405a350bf7e2",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:46:37.088Z"
+    },
+    "8f7d844f-82ca-4aa8-8f61-949344af6ab1": {
+      "id": "8f7d844f-82ca-4aa8-8f61-949344af6ab1",
+      "file_id": "77b9c4dd-eb96-493a-bb7a-dc055217a3d9",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:46:37.107Z"
+    },
+    "b37a91a5-9a3d-4125-abe1-87da300fbc11": {
+      "id": "b37a91a5-9a3d-4125-abe1-87da300fbc11",
+      "file_id": "db787a79-25d9-4185-9a9d-d1b97badbb9f",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:46:37.109Z"
+    },
+    "b8b07d86-486b-47b8-998c-9af68b2ba863": {
+      "id": "b8b07d86-486b-47b8-998c-9af68b2ba863",
+      "file_id": "d7b528a4-0f12-4bc4-8769-a2ccc73c0ced",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "version": 1,
+      "content": "unique_keyword_vx_search",
+      "created_at": "2026-09-24T05:46:37.111Z"
+    },
+    "853484d0-f7c0-48f8-be11-c8797d51c39a": {
+      "id": "853484d0-f7c0-48f8-be11-c8797d51c39a",
+      "file_id": "5a813588-9933-4851-89f5-6b0f9ce3d33c",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "version": 3,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "created_at": "2026-09-24T05:46:37.114Z"
+    },
+    "22493069-d189-4a98-84a2-7b6b133e8b79": {
+      "id": "22493069-d189-4a98-84a2-7b6b133e8b79",
+      "file_id": "4840cd56-a618-4025-8ee9-cbe55bb5e03b",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "version": 1,
+      "content": "export default function App() { return <div>Hello World</div> }",
+      "created_at": "2026-09-24T05:57:36.144Z"
+    },
+    "131128ab-8196-4c75-8bd7-bf0c87f32fe7": {
+      "id": "131128ab-8196-4c75-8bd7-bf0c87f32fe7",
+      "file_id": "4840cd56-a618-4025-8ee9-cbe55bb5e03b",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "version": 2,
+      "content": "export default function App() { return <div>Hello VX</div> }",
+      "created_at": "2026-09-24T05:57:36.145Z"
+    },
+    "11798e28-9e0c-4aae-b7f8-f87c2aede844": {
+      "id": "11798e28-9e0c-4aae-b7f8-f87c2aede844",
+      "file_id": "c9950227-bc16-428f-b436-c8387ec37934",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "version": 1,
+      "content": "temporary",
+      "created_at": "2026-09-24T05:57:36.146Z"
+    },
+    "784ff329-ff40-49cd-be55-0e62f4a42c3e": {
+      "id": "784ff329-ff40-49cd-be55-0e62f4a42c3e",
+      "file_id": "64018dc7-7ccb-41ab-a298-ee2ca410896e",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:57:36.147Z"
+    },
+    "082e8895-1e84-4efc-bbc9-5262e565aab4": {
+      "id": "082e8895-1e84-4efc-bbc9-5262e565aab4",
+      "file_id": "0c67393f-a6f4-4fce-91b6-ddc9ac00bcf4",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:57:36.159Z"
+    },
+    "de03dd03-6f08-45aa-ac7a-35b416706473": {
+      "id": "de03dd03-6f08-45aa-ac7a-35b416706473",
+      "file_id": "3911fc9a-f165-4de1-a8ca-32d1f3b540bc",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T05:57:36.160Z"
+    },
+    "9dc73a0b-3390-4688-9555-99952c573201": {
+      "id": "9dc73a0b-3390-4688-9555-99952c573201",
+      "file_id": "eacec09d-f01d-4ddb-a5ee-827a691b4ed0",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "version": 1,
+      "content": "unique_keyword_vx_search",
+      "created_at": "2026-09-24T05:57:36.162Z"
+    },
+    "d0b776d4-e07d-4226-869e-47b0dc613667": {
+      "id": "d0b776d4-e07d-4226-869e-47b0dc613667",
+      "file_id": "4840cd56-a618-4025-8ee9-cbe55bb5e03b",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "version": 3,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "created_at": "2026-09-24T05:57:36.164Z"
+    },
+    "aca9304e-e336-40ac-8665-18ad2e55d0ae": {
+      "id": "aca9304e-e336-40ac-8665-18ad2e55d0ae",
+      "file_id": "d35d29bb-1ed2-411f-8fdb-0f8177a64301",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "version": 1,
+      "content": "export default function App() { return <div>Hello World</div> }",
+      "created_at": "2026-09-24T06:00:08.477Z"
+    },
+    "87734c7b-b124-4b82-9a14-e101ed5a64c1": {
+      "id": "87734c7b-b124-4b82-9a14-e101ed5a64c1",
+      "file_id": "d35d29bb-1ed2-411f-8fdb-0f8177a64301",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "version": 2,
+      "content": "export default function App() { return <div>Hello VX</div> }",
+      "created_at": "2026-09-24T06:00:08.478Z"
+    },
+    "ec7e4e72-c201-455b-a663-5a8ea7a7088e": {
+      "id": "ec7e4e72-c201-455b-a663-5a8ea7a7088e",
+      "file_id": "789279ed-4ac6-47b3-865d-58b9e4f6e0f0",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "version": 1,
+      "content": "temporary",
+      "created_at": "2026-09-24T06:00:08.479Z"
+    },
+    "1af8eb43-10fa-434b-a30d-996d67a88612": {
+      "id": "1af8eb43-10fa-434b-a30d-996d67a88612",
+      "file_id": "e2388cc0-dcbc-43c8-9fdc-d34f15edeff7",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T06:00:08.482Z"
+    },
+    "f4c35146-275b-40d2-bd61-ce8e51b19952": {
+      "id": "f4c35146-275b-40d2-bd61-ce8e51b19952",
+      "file_id": "4af99dc1-4734-462f-ab03-026f9858a25a",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T06:00:08.493Z"
+    },
+    "8aef10b4-d229-47d3-a141-1e3e0f22de92": {
+      "id": "8aef10b4-d229-47d3-a141-1e3e0f22de92",
+      "file_id": "877a69e2-f8ed-4bae-8f4d-8f7aad29e0e5",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "version": 1,
+      "content": "old code",
+      "created_at": "2026-09-24T06:00:08.495Z"
+    },
+    "3f74a950-09b7-4de8-8ebf-774e59ac54b8": {
+      "id": "3f74a950-09b7-4de8-8ebf-774e59ac54b8",
+      "file_id": "98cc5252-47b1-48fa-bf5d-b67b271ae343",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "version": 1,
+      "content": "unique_keyword_vx_search",
+      "created_at": "2026-09-24T06:00:08.496Z"
+    },
+    "d8029127-22cf-452d-8a3b-59c9ca365e06": {
+      "id": "d8029127-22cf-452d-8a3b-59c9ca365e06",
+      "file_id": "d35d29bb-1ed2-411f-8fdb-0f8177a64301",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "version": 3,
+      "content": "export default function App() { return <div>Hello Agent</div> }",
+      "created_at": "2026-09-24T06:00:08.499Z"
+    },
+    "682bad5a-6e66-4ecf-865e-731d50f43020": {
+      "id": "682bad5a-6e66-4ecf-865e-731d50f43020",
+      "file_id": "3238878b-cc97-4165-ad3b-5e38878a27f5",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "version": 1,
+      "content": "const key = \"GEMINI_API_KEY_AIzaSy12345\"",
+      "created_at": "2026-09-25T03:25:17.244Z"
+    },
+    "d60d19b0-3073-4944-b286-66fe0ddf1223": {
+      "id": "d60d19b0-3073-4944-b286-66fe0ddf1223",
+      "file_id": "874467fd-25d0-4421-85a4-f024df6ea40d",
+      "project_id": "ee4a0db1-2777-4f91-808c-d391516f6805",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T05:31:41.094Z"
+    },
+    "9167198c-1839-4a14-8a08-e82b6da35033": {
+      "id": "9167198c-1839-4a14-8a08-e82b6da35033",
+      "file_id": "874467fd-25d0-4421-85a4-f024df6ea40d",
+      "project_id": "ee4a0db1-2777-4f91-808c-d391516f6805",
+      "version": 2,
+      "content": "export const APP_NAME = \"Modified Name\";",
+      "created_at": "2026-09-25T05:31:41.097Z"
+    },
+    "e8fdba9c-dbc3-4259-812d-7437ab3853b4": {
+      "id": "e8fdba9c-dbc3-4259-812d-7437ab3853b4",
+      "file_id": "3190d7cb-9dc9-4df1-8219-593397fad920",
+      "project_id": "ee4a0db1-2777-4f91-808c-d391516f6805",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T05:31:41.099Z"
+    },
+    "1a00de86-14a5-45ab-8a27-769a4a9c6743": {
+      "id": "1a00de86-14a5-45ab-8a27-769a4a9c6743",
+      "file_id": "8c786226-7719-424b-abf4-0b370ee81a1f",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "version": 1,
+      "content": "const key = \"OPENROUTER_API_KEY_sk-1234567890\"",
+      "created_at": "2026-09-25T05:31:43.837Z"
+    },
+    "e412a951-b9f5-4251-be05-c7c5767629ea": {
+      "id": "e412a951-b9f5-4251-be05-c7c5767629ea",
+      "file_id": "82d615b0-e1f9-4181-9986-4984825054a3",
+      "project_id": "0a2a7522-5957-4da9-b889-2fc43060f6f2",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T05:32:39.256Z"
+    },
+    "c9a38e6f-3f77-4046-8978-e0aaffc579b7": {
+      "id": "c9a38e6f-3f77-4046-8978-e0aaffc579b7",
+      "file_id": "82d615b0-e1f9-4181-9986-4984825054a3",
+      "project_id": "0a2a7522-5957-4da9-b889-2fc43060f6f2",
+      "version": 2,
+      "content": "export const APP_NAME = \"Modified Name\";",
+      "created_at": "2026-09-25T05:32:39.259Z"
+    },
+    "2e2693c8-73f2-47bb-884c-b14c14a59292": {
+      "id": "2e2693c8-73f2-47bb-884c-b14c14a59292",
+      "file_id": "833cb83d-5df9-432b-b88f-2feacbcd060a",
+      "project_id": "0a2a7522-5957-4da9-b889-2fc43060f6f2",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T05:32:39.261Z"
+    },
+    "8b9e61d7-2e87-4d26-82ba-0725d8e813a6": {
+      "id": "8b9e61d7-2e87-4d26-82ba-0725d8e813a6",
+      "file_id": "cb262385-9c2c-4c2b-9c64-04d9dd0b914c",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "version": 1,
+      "content": "const key = \"OPENROUTER_API_KEY_sk-1234567890\"",
+      "created_at": "2026-09-25T05:32:42.004Z"
+    },
+    "3e1857d4-0597-4a00-be7b-48bcb98a6034": {
+      "id": "3e1857d4-0597-4a00-be7b-48bcb98a6034",
+      "file_id": "8224f8ca-2e7d-47db-83fa-952d7ea6a955",
+      "project_id": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T05:33:37.654Z"
+    },
+    "4fe06357-ce8d-4f55-aa6b-c203c57a5171": {
+      "id": "4fe06357-ce8d-4f55-aa6b-c203c57a5171",
+      "file_id": "8224f8ca-2e7d-47db-83fa-952d7ea6a955",
+      "project_id": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "version": 2,
+      "content": "export const APP_NAME = \"Modified Name\";",
+      "created_at": "2026-09-25T05:33:37.657Z"
+    },
+    "819b3843-6b4d-4161-83be-415800498a4a": {
+      "id": "819b3843-6b4d-4161-83be-415800498a4a",
+      "file_id": "01e7fbf3-0e8d-45d5-8515-bf9f2ce853d6",
+      "project_id": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T05:33:37.660Z"
+    },
+    "3dc1ad43-bff7-404d-9d4c-03b5146266e7": {
+      "id": "3dc1ad43-bff7-404d-9d4c-03b5146266e7",
+      "file_id": "1880ff55-8c5b-44f3-be25-d26ceb1a2238",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "version": 1,
+      "content": "const key = \"OPENROUTER_API_KEY_sk-1234567890\"",
+      "created_at": "2026-09-25T05:33:40.400Z"
+    },
+    "573bdcfd-0f9d-4374-8926-5f593d64a85d": {
+      "id": "573bdcfd-0f9d-4374-8926-5f593d64a85d",
+      "file_id": "4a697532-e870-45d7-9b1b-9610b2c71ef3",
+      "project_id": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T05:59:56.044Z"
+    },
+    "b4f7266a-00c3-48dc-9ed5-af2a2db60f12": {
+      "id": "b4f7266a-00c3-48dc-9ed5-af2a2db60f12",
+      "file_id": "4a697532-e870-45d7-9b1b-9610b2c71ef3",
+      "project_id": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "version": 2,
+      "content": "export const APP_NAME = \"Modified Name\";",
+      "created_at": "2026-09-25T05:59:56.047Z"
+    },
+    "c21ac96b-247e-4c51-84b5-a657a415dc97": {
+      "id": "c21ac96b-247e-4c51-84b5-a657a415dc97",
+      "file_id": "4d6ce456-0b05-4fe9-9a71-63adcc05403f",
+      "project_id": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T05:59:56.050Z"
+    },
+    "a2c45049-f8cb-4725-868f-3ee7a71b331d": {
+      "id": "a2c45049-f8cb-4725-868f-3ee7a71b331d",
+      "file_id": "b8bfb623-c1af-45fe-9cd8-840d0d9a3d7c",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "version": 1,
+      "content": "const key = \"OPENROUTER_API_KEY_sk-1234567890\"",
+      "created_at": "2026-09-25T05:59:58.794Z"
+    },
+    "74cbad41-9e1d-4b91-8078-48dc4a66c384": {
+      "id": "74cbad41-9e1d-4b91-8078-48dc4a66c384",
+      "file_id": "73f462af-10a9-468a-9de3-d69b91c329bd",
+      "project_id": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T06:48:17.548Z"
+    },
+    "f82ef432-7ece-468e-9f40-7c0f1da71a7f": {
+      "id": "f82ef432-7ece-468e-9f40-7c0f1da71a7f",
+      "file_id": "73f462af-10a9-468a-9de3-d69b91c329bd",
+      "project_id": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "version": 2,
+      "content": "export const APP_NAME = \"Modified Name\";",
+      "created_at": "2026-09-25T06:48:17.552Z"
+    },
+    "2911a991-42cb-42c5-85dd-cb3f43c35ef0": {
+      "id": "2911a991-42cb-42c5-85dd-cb3f43c35ef0",
+      "file_id": "d26d113a-83ab-4034-8c06-7b9d11738d9b",
+      "project_id": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "version": 1,
+      "content": "export const APP_NAME = \"Audit Workspace\";",
+      "created_at": "2026-09-25T06:48:17.555Z"
+    },
+    "115d5168-20e3-4b82-aabc-557c0a9fad26": {
+      "id": "115d5168-20e3-4b82-aabc-557c0a9fad26",
+      "file_id": "99497211-90b3-4b9d-975a-1a4ff55ef09b",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "version": 1,
+      "content": "const key = \"OPENROUTER_API_KEY_sk-1234567890\"",
+      "created_at": "2026-09-25T06:48:20.297Z"
+    }
+  },
+  "projectSnapshots": {
+    "a24426ab-37de-4eb4-ac78-2971349490ec": {
+      "id": "a24426ab-37de-4eb4-ac78-2971349490ec",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "user_id": "user_p6_test_1",
+      "conversation_id": null,
+      "description": "Test snapshot",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T05:43:52.833Z"
+    },
+    "ee0a1c35-e80e-4251-ae58-bb0445422fe7": {
+      "id": "ee0a1c35-e80e-4251-ae58-bb0445422fe7",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "user_id": "user_p6_test_1",
+      "conversation_id": "a18c29eb-cfb6-459b-8ea0-38223e16ace6",
+      "description": "Pre-agent snapshot for run 97bdec40-13aa-4b0c-9d89-074a91ccc775: \"Inspect the files and update App.tsx to \"",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T05:43:52.835Z"
+    },
+    "5f86d8c5-35fb-4e50-82ba-8e7fe3b0e271": {
+      "id": "5f86d8c5-35fb-4e50-82ba-8e7fe3b0e271",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "user_id": "user_p6_test_1",
+      "conversation_id": null,
+      "description": "Test snapshot",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T05:45:22.271Z"
+    },
+    "4f576548-f095-4ef6-9514-4e8aec3f51d2": {
+      "id": "4f576548-f095-4ef6-9514-4e8aec3f51d2",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "user_id": "user_p6_test_1",
+      "conversation_id": "bf098b5a-4250-4283-8118-d0efcf775c15",
+      "description": "Pre-agent snapshot for run 2f7a40e1-c609-420b-81b7-d171d8a2684a: \"Inspect the files and update App.tsx to \"",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T05:45:22.272Z"
+    },
+    "dfc35745-2445-4c1b-adaa-2f7589764d15": {
+      "id": "dfc35745-2445-4c1b-adaa-2f7589764d15",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "user_id": "user_p6_test_1",
+      "conversation_id": null,
+      "description": "Test snapshot",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T05:46:37.116Z"
+    },
+    "9c5714c0-db80-4d80-9060-9a0ef049d192": {
+      "id": "9c5714c0-db80-4d80-9060-9a0ef049d192",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "user_id": "user_p6_test_1",
+      "conversation_id": "90fa4d3c-d086-436b-a643-33e6e921fece",
+      "description": "Pre-agent snapshot for run ae10936d-aeb0-4bc2-8e3b-0ff1c39ab3e1: \"Inspect the files and update App.tsx to \"",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T05:46:37.119Z"
+    },
+    "e83188f2-1a54-41ce-9d41-51087232a240": {
+      "id": "e83188f2-1a54-41ce-9d41-51087232a240",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "user_id": "user_p6_test_1",
+      "conversation_id": null,
+      "description": "Test snapshot",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T05:57:36.166Z"
+    },
+    "806c3010-76ec-46da-8164-989e0063ae81": {
+      "id": "806c3010-76ec-46da-8164-989e0063ae81",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "user_id": "user_p6_test_1",
+      "conversation_id": "ad088468-e134-4927-a168-eed38e3df8ed",
+      "description": "Pre-agent snapshot for run fea83901-11ad-407f-a225-ff7d9bbea42e: \"Inspect the files and update App.tsx to \"",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T05:57:36.168Z"
+    },
+    "3bc5e92a-7c76-4ac6-9068-99c2044b3ea7": {
+      "id": "3bc5e92a-7c76-4ac6-9068-99c2044b3ea7",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "user_id": "user_p6_test_1",
+      "conversation_id": null,
+      "description": "Test snapshot",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T06:00:08.501Z"
+    },
+    "6339e0f3-4787-4307-b88b-ef30cb0276e6": {
+      "id": "6339e0f3-4787-4307-b88b-ef30cb0276e6",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "user_id": "user_p6_test_1",
+      "conversation_id": "e7dae42f-1f4a-4467-837c-c6d017e5c858",
+      "description": "Pre-agent snapshot for run 291ecf01-8f2c-4285-aa96-bb571d8fe9a5: \"Inspect the files and update App.tsx to \"",
+      "files_snapshot": [
+        {
+          "path": "components",
+          "is_folder": true,
+          "content": "",
+          "version": 1
+        },
+        {
+          "path": "components/New.tsx",
+          "is_folder": false,
+          "content": "old code",
+          "version": 1
+        },
+        {
+          "path": "src/App.tsx",
+          "is_folder": false,
+          "content": "export default function App() { return <div>Hello Agent</div> }",
+          "version": 3
+        },
+        {
+          "path": "src/searchme.txt",
+          "is_folder": false,
+          "content": "unique_keyword_vx_search",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-24T06:00:08.504Z"
+    },
+    "0b09f0e8-d68f-4cf2-978a-a9872db364ed": {
+      "id": "0b09f0e8-d68f-4cf2-978a-a9872db364ed",
+      "project_id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "user_id": "test-user-p16-1790306405411",
+      "conversation_id": null,
+      "description": "Pre-APK build checkpoint for v1.0.0 (1)",
+      "files_snapshot": [
+        {
+          "path": ".env.example",
+          "is_folder": false,
+          "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+          "version": 1
+        },
+        {
+          "path": "app.json",
+          "is_folder": false,
+          "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+          "version": 1
+        },
+        {
+          "path": "App.tsx",
+          "is_folder": false,
+          "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+          "version": 1
+        },
+        {
+          "path": "package.json",
+          "is_folder": false,
+          "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T03:20:05.849Z"
+    },
+    "ab030fd3-0aac-4738-a092-8d67cbf08125": {
+      "id": "ab030fd3-0aac-4738-a092-8d67cbf08125",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "conversation_id": null,
+      "description": "Pre-APK build checkpoint for v1.0.0 (1)",
+      "files_snapshot": [
+        {
+          "path": ".env.example",
+          "is_folder": false,
+          "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+          "version": 1
+        },
+        {
+          "path": "app.json",
+          "is_folder": false,
+          "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+          "version": 1
+        },
+        {
+          "path": "App.tsx",
+          "is_folder": false,
+          "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+          "version": 1
+        },
+        {
+          "path": "package.json",
+          "is_folder": false,
+          "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T03:25:14.354Z"
+    },
+    "e7dc09f1-80bd-49f2-8bd7-e77bd8dc4f60": {
+      "id": "e7dc09f1-80bd-49f2-8bd7-e77bd8dc4f60",
+      "project_id": "ee4a0db1-2777-4f91-808c-d391516f6805",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "conversation_id": null,
+      "description": "Pre-audit test snapshot",
+      "files_snapshot": [
+        {
+          "path": "src/config/app.ts",
+          "is_folder": false,
+          "content": "export const APP_NAME = \"Audit Workspace\";",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T05:31:41.096Z"
+    },
+    "0688d524-7de0-47f8-9004-ab92112e5b76": {
+      "id": "0688d524-7de0-47f8-9004-ab92112e5b76",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "conversation_id": null,
+      "description": "Pre-APK build checkpoint for v1.0.0 (1)",
+      "files_snapshot": [
+        {
+          "path": ".env.example",
+          "is_folder": false,
+          "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+          "version": 1
+        },
+        {
+          "path": "app.json",
+          "is_folder": false,
+          "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+          "version": 1
+        },
+        {
+          "path": "App.tsx",
+          "is_folder": false,
+          "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+          "version": 1
+        },
+        {
+          "path": "package.json",
+          "is_folder": false,
+          "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T05:31:41.117Z"
+    },
+    "ef627dbc-1a03-4498-9675-7aef1a2550d9": {
+      "id": "ef627dbc-1a03-4498-9675-7aef1a2550d9",
+      "project_id": "0a2a7522-5957-4da9-b889-2fc43060f6f2",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "conversation_id": null,
+      "description": "Pre-audit test snapshot",
+      "files_snapshot": [
+        {
+          "path": "src/config/app.ts",
+          "is_folder": false,
+          "content": "export const APP_NAME = \"Audit Workspace\";",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T05:32:39.258Z"
+    },
+    "ee58c4fa-4d11-4081-89df-bfd483863bec": {
+      "id": "ee58c4fa-4d11-4081-89df-bfd483863bec",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "conversation_id": null,
+      "description": "Pre-APK build checkpoint for v1.0.0 (1)",
+      "files_snapshot": [
+        {
+          "path": ".env.example",
+          "is_folder": false,
+          "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+          "version": 1
+        },
+        {
+          "path": "app.json",
+          "is_folder": false,
+          "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+          "version": 1
+        },
+        {
+          "path": "App.tsx",
+          "is_folder": false,
+          "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+          "version": 1
+        },
+        {
+          "path": "package.json",
+          "is_folder": false,
+          "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T05:32:39.277Z"
+    },
+    "3b5ef9bc-d45a-4691-9b65-b6e4bfaac608": {
+      "id": "3b5ef9bc-d45a-4691-9b65-b6e4bfaac608",
+      "project_id": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "conversation_id": null,
+      "description": "Pre-audit test snapshot",
+      "files_snapshot": [
+        {
+          "path": "src/config/app.ts",
+          "is_folder": false,
+          "content": "export const APP_NAME = \"Audit Workspace\";",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T05:33:37.656Z"
+    },
+    "701ac218-37da-4567-9c76-f4c2260e7628": {
+      "id": "701ac218-37da-4567-9c76-f4c2260e7628",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "conversation_id": null,
+      "description": "Pre-APK build checkpoint for v1.0.0 (1)",
+      "files_snapshot": [
+        {
+          "path": ".env.example",
+          "is_folder": false,
+          "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+          "version": 1
+        },
+        {
+          "path": "app.json",
+          "is_folder": false,
+          "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+          "version": 1
+        },
+        {
+          "path": "App.tsx",
+          "is_folder": false,
+          "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+          "version": 1
+        },
+        {
+          "path": "package.json",
+          "is_folder": false,
+          "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T05:33:37.676Z"
+    },
+    "52074ff7-d601-40de-8096-91c409358504": {
+      "id": "52074ff7-d601-40de-8096-91c409358504",
+      "project_id": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "conversation_id": null,
+      "description": "Pre-audit test snapshot",
+      "files_snapshot": [
+        {
+          "path": "src/config/app.ts",
+          "is_folder": false,
+          "content": "export const APP_NAME = \"Audit Workspace\";",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T05:59:56.046Z"
+    },
+    "b47143c3-ff34-416c-810a-f8c3512982ad": {
+      "id": "b47143c3-ff34-416c-810a-f8c3512982ad",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "conversation_id": null,
+      "description": "Pre-APK build checkpoint for v1.0.0 (1)",
+      "files_snapshot": [
+        {
+          "path": ".env.example",
+          "is_folder": false,
+          "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+          "version": 1
+        },
+        {
+          "path": "app.json",
+          "is_folder": false,
+          "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+          "version": 1
+        },
+        {
+          "path": "App.tsx",
+          "is_folder": false,
+          "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+          "version": 1
+        },
+        {
+          "path": "package.json",
+          "is_folder": false,
+          "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T05:59:56.066Z"
+    },
+    "4cd3fc45-9241-4478-a055-fdec379a6f3b": {
+      "id": "4cd3fc45-9241-4478-a055-fdec379a6f3b",
+      "project_id": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "conversation_id": null,
+      "description": "Pre-audit test snapshot",
+      "files_snapshot": [
+        {
+          "path": "src/config/app.ts",
+          "is_folder": false,
+          "content": "export const APP_NAME = \"Audit Workspace\";",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T06:48:17.550Z"
+    },
+    "d08804cf-d2e9-440e-b568-f59f856b65c4": {
+      "id": "d08804cf-d2e9-440e-b568-f59f856b65c4",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "conversation_id": null,
+      "description": "Pre-APK build checkpoint for v1.0.0 (1)",
+      "files_snapshot": [
+        {
+          "path": ".env.example",
+          "is_folder": false,
+          "content": "# Public mobile client configuration (NEVER PUT VX SERVER SECRETS HERE)\nEXPO_PUBLIC_API_URL=https://api.vx.dev\nEXPO_PUBLIC_SUPABASE_URL=\nEXPO_PUBLIC_SUPABASE_ANON_KEY=\n",
+          "version": 1
+        },
+        {
+          "path": "app.json",
+          "is_folder": false,
+          "content": "{\n  \"expo\": {\n    \"name\": \"VX Mobile App\",\n    \"slug\": \"vx-mobile-app\",\n    \"version\": \"1.0.0\",\n    \"orientation\": \"portrait\",\n    \"icon\": \"./assets/icon.png\",\n    \"userInterfaceStyle\": \"dark\",\n    \"splash\": {\n      \"image\": \"./assets/splash.png\",\n      \"resizeMode\": \"contain\",\n      \"backgroundColor\": \"#0d0d11\"\n    },\n    \"android\": {\n      \"package\": \"com.vx.mobileapp\",\n      \"adaptiveIcon\": {\n        \"foregroundImage\": \"./assets/icon-maskable.png\",\n        \"backgroundColor\": \"#0d0d11\"\n      }\n    },\n    \"plugins\": [\n      \"expo-router\"\n    ]\n  }\n}",
+          "version": 1
+        },
+        {
+          "path": "App.tsx",
+          "is_folder": false,
+          "content": "import React from 'react';\nimport { StyleSheet, Text, View, SafeAreaView, TouchableOpacity } from 'react-native';\nimport { StatusBar } from 'expo-status-bar';\n\nexport default function App() {\n  return (\n    <SafeAreaView style={styles.container}>\n      <StatusBar style=\"light\" />\n      <View style={styles.card}>\n        <Text style={styles.title}>VX Mobile App</Text>\n        <Text style={styles.subtitle}>Built with Expo & React Native</Text>\n        <TouchableOpacity style={styles.button} onPress={() => alert('Welcome to your Expo mobile app!')}>\n          <Text style={styles.buttonText}>Get Started</Text>\n        </TouchableOpacity>\n      </View>\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#0d0d11',\n    alignItems: 'center',\n    justifyContent: 'center',\n    padding: 20,\n  },\n  card: {\n    backgroundColor: '#18181c',\n    borderRadius: 16,\n    padding: 24,\n    width: '100%',\n    maxWidth: 380,\n    borderWidth: 1,\n    borderColor: '#27272a',\n    alignItems: 'center',\n  },\n  title: {\n    fontSize: 22,\n    fontWeight: 'bold',\n    color: '#ffffff',\n    marginBottom: 8,\n  },\n  subtitle: {\n    fontSize: 14,\n    color: '#a1a1aa',\n    marginBottom: 24,\n    textAlign: 'center',\n  },\n  button: {\n    backgroundColor: '#27272a',\n    paddingVertical: 12,\n    paddingHorizontal: 24,\n    borderRadius: 8,\n    borderWidth: 1,\n    borderColor: '#3f3f46',\n  },\n  buttonText: {\n    color: '#ffffff',\n    fontSize: 14,\n    fontWeight: '600',\n  },\n});\n",
+          "version": 1
+        },
+        {
+          "path": "package.json",
+          "is_folder": false,
+          "content": "{\n  \"name\": \"vx-mobile-app\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"expo start\",\n    \"android\": \"expo start --android\",\n    \"ios\": \"expo start --ios\",\n    \"web\": \"expo start --web\"\n  },\n  \"dependencies\": {\n    \"@expo/vector-icons\": \"^14.0.0\",\n    \"@react-navigation/native\": \"^6.1.9\",\n    \"@react-navigation/stack\": \"^6.3.20\",\n    \"expo\": \"~51.0.0\",\n    \"expo-status-bar\": \"~1.12.1\",\n    \"react\": \"18.3.1\",\n    \"react-native\": \"0.74.1\",\n    \"react-native-safe-area-context\": \"4.10.5\",\n    \"react-native-screens\": \"3.31.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.20.0\",\n    \"@types/react\": \"~18.2.45\",\n    \"typescript\": \"~5.1.3\"\n  }\n}",
+          "version": 1
+        }
+      ],
+      "created_at": "2026-09-25T06:48:17.570Z"
+    }
+  },
+  "agentRuns": {
+    "97bdec40-13aa-4b0c-9d89-074a91ccc775": {
+      "id": "97bdec40-13aa-4b0c-9d89-074a91ccc775",
+      "user_id": "user_p6_test_1",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "conversation_id": "a18c29eb-cfb6-459b-8ea0-38223e16ace6",
+      "model_id": "auto",
+      "status": "completed",
+      "created_at": "2026-09-24T05:43:52.835Z",
+      "updated_at": "2026-09-24T05:43:56.601Z",
+      "summary": "Coding agent completed task after 1 iterations."
+    },
+    "2f7a40e1-c609-420b-81b7-d171d8a2684a": {
+      "id": "2f7a40e1-c609-420b-81b7-d171d8a2684a",
+      "user_id": "user_p6_test_1",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "conversation_id": "bf098b5a-4250-4283-8118-d0efcf775c15",
+      "model_id": "auto",
+      "status": "completed",
+      "created_at": "2026-09-24T05:45:22.272Z",
+      "updated_at": "2026-09-24T05:45:25.328Z",
+      "summary": "Coding agent completed task after 1 iterations."
+    },
+    "ae10936d-aeb0-4bc2-8e3b-0ff1c39ab3e1": {
+      "id": "ae10936d-aeb0-4bc2-8e3b-0ff1c39ab3e1",
+      "user_id": "user_p6_test_1",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "conversation_id": "90fa4d3c-d086-436b-a643-33e6e921fece",
+      "model_id": "auto",
+      "status": "completed",
+      "created_at": "2026-09-24T05:46:37.118Z",
+      "updated_at": "2026-09-24T05:46:39.718Z",
+      "summary": "Coding agent completed task after 1 iterations."
+    },
+    "fea83901-11ad-407f-a225-ff7d9bbea42e": {
+      "id": "fea83901-11ad-407f-a225-ff7d9bbea42e",
+      "user_id": "user_p6_test_1",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "conversation_id": "ad088468-e134-4927-a168-eed38e3df8ed",
+      "model_id": "auto",
+      "status": "completed",
+      "created_at": "2026-09-24T05:57:36.167Z",
+      "updated_at": "2026-09-24T05:57:39.421Z",
+      "summary": "Coding agent completed task after 1 iterations."
+    },
+    "291ecf01-8f2c-4285-aa96-bb571d8fe9a5": {
+      "id": "291ecf01-8f2c-4285-aa96-bb571d8fe9a5",
+      "user_id": "user_p6_test_1",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "conversation_id": "e7dae42f-1f4a-4467-837c-c6d017e5c858",
+      "model_id": "auto",
+      "status": "completed",
+      "created_at": "2026-09-24T06:00:08.503Z",
+      "updated_at": "2026-09-24T06:00:29.050Z",
+      "summary": "Coding agent completed task after 1 iterations."
+    }
+  },
+  "agentOperations": {
+    "61d9dbb2-8da5-4c6a-a354-d278c2fc9083": {
+      "id": "61d9dbb2-8da5-4c6a-a354-d278c2fc9083",
+      "run_id": "run_123",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "operation_type": "read",
+      "file_path": "/",
+      "status": "success",
+      "details": "Listed 4 project files",
+      "created_at": "2026-09-24T05:43:52.832Z"
+    },
+    "9c0f9762-44a8-45d8-8649-f07169ebbe1e": {
+      "id": "9c0f9762-44a8-45d8-8649-f07169ebbe1e",
+      "run_id": "run_123",
+      "project_id": "731480e8-6899-4446-aa66-0254a00ac089",
+      "operation_type": "edit",
+      "file_path": "src/App.tsx",
+      "status": "success",
+      "details": "Targeted edit to v3",
+      "created_at": "2026-09-24T05:43:52.833Z"
+    },
+    "96c88ecf-c949-421a-8e6a-bf954b812db2": {
+      "id": "96c88ecf-c949-421a-8e6a-bf954b812db2",
+      "run_id": "run_123",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "operation_type": "read",
+      "file_path": "/",
+      "status": "success",
+      "details": "Listed 4 project files",
+      "created_at": "2026-09-24T05:45:22.269Z"
+    },
+    "bc30d288-4d52-426e-b8c5-8abdb229dbc4": {
+      "id": "bc30d288-4d52-426e-b8c5-8abdb229dbc4",
+      "run_id": "run_123",
+      "project_id": "cf087e4f-7615-4e87-8b3d-ee7f0e4a5f66",
+      "operation_type": "edit",
+      "file_path": "src/App.tsx",
+      "status": "success",
+      "details": "Targeted edit to v3",
+      "created_at": "2026-09-24T05:45:22.270Z"
+    },
+    "6d185c8d-0ebf-42a3-a0f3-6695440225c6": {
+      "id": "6d185c8d-0ebf-42a3-a0f3-6695440225c6",
+      "run_id": "run_123",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "operation_type": "read",
+      "file_path": "/",
+      "status": "success",
+      "details": "Listed 4 project files",
+      "created_at": "2026-09-24T05:46:37.113Z"
+    },
+    "64b2561b-676f-45d6-b239-5d6e5e96486f": {
+      "id": "64b2561b-676f-45d6-b239-5d6e5e96486f",
+      "run_id": "run_123",
+      "project_id": "5da04a3c-e5b9-4365-9434-05563685258f",
+      "operation_type": "edit",
+      "file_path": "src/App.tsx",
+      "status": "success",
+      "details": "Targeted edit to v3",
+      "created_at": "2026-09-24T05:46:37.115Z"
+    },
+    "ad47b0e2-84e7-4cb6-bf5c-9b10695adcb7": {
+      "id": "ad47b0e2-84e7-4cb6-bf5c-9b10695adcb7",
+      "run_id": "run_123",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "operation_type": "read",
+      "file_path": "/",
+      "status": "success",
+      "details": "Listed 4 project files",
+      "created_at": "2026-09-24T05:57:36.163Z"
+    },
+    "f005d7ac-b970-4dc5-be42-48e4ea3e71f3": {
+      "id": "f005d7ac-b970-4dc5-be42-48e4ea3e71f3",
+      "run_id": "run_123",
+      "project_id": "1b77d86e-04b6-4d37-9d4e-bcc16dbdfab8",
+      "operation_type": "edit",
+      "file_path": "src/App.tsx",
+      "status": "success",
+      "details": "Targeted edit to v3",
+      "created_at": "2026-09-24T05:57:36.165Z"
+    },
+    "47a0ed3f-9ea0-44e8-84c9-ccf58bee912d": {
+      "id": "47a0ed3f-9ea0-44e8-84c9-ccf58bee912d",
+      "run_id": "run_123",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "operation_type": "read",
+      "file_path": "/",
+      "status": "success",
+      "details": "Listed 4 project files",
+      "created_at": "2026-09-24T06:00:08.499Z"
+    },
+    "5827a25d-aea7-4604-b645-5657ebbe4deb": {
+      "id": "5827a25d-aea7-4604-b645-5657ebbe4deb",
+      "run_id": "run_123",
+      "project_id": "4df057c1-c47b-4a0f-b969-bd2db765ceeb",
+      "operation_type": "edit",
+      "file_path": "src/App.tsx",
+      "status": "success",
+      "details": "Targeted edit to v3",
+      "created_at": "2026-09-24T06:00:08.500Z"
+    }
+  },
+  "notes": {},
+  "reviews": {},
+  "documents": {},
+  "contextMemories": {},
+  "media": {
+    "feba3766-5d2e-4c08-ab47-3a96bc891644": {
+      "id": "feba3766-5d2e-4c08-ab47-3a96bc891644",
+      "projectId": "ee4a0db1-2777-4f91-808c-d391516f6805",
+      "userId": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "fileName": "hero-banner.png",
+      "displayName": "Hero Banner Image",
+      "fileType": "image",
+      "mimeType": "image/png",
+      "sizeBytes": 131072,
+      "sourceType": "generated",
+      "storagePath": "/uploads/media/ee4a0db1-2777-4f91-808c-d391516f6805/hero-banner.png",
+      "prompt": "Vibrant dark theme hero banner",
+      "created_at": "2026-09-25T05:31:41.100Z",
+      "updated_at": "2026-09-25T05:31:41.100Z"
+    },
+    "8ffc3c72-f803-424d-8e8b-12188a7b947a": {
+      "id": "8ffc3c72-f803-424d-8e8b-12188a7b947a",
+      "projectId": "0a2a7522-5957-4da9-b889-2fc43060f6f2",
+      "userId": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "fileName": "hero-banner.png",
+      "displayName": "Hero Banner Image",
+      "fileType": "image",
+      "mimeType": "image/png",
+      "sizeBytes": 131072,
+      "sourceType": "generated",
+      "storagePath": "/uploads/media/0a2a7522-5957-4da9-b889-2fc43060f6f2/hero-banner.png",
+      "prompt": "Vibrant dark theme hero banner",
+      "created_at": "2026-09-25T05:32:39.262Z",
+      "updated_at": "2026-09-25T05:32:39.262Z"
+    },
+    "defd7a51-3be7-4847-9882-4d679f933aaf": {
+      "id": "defd7a51-3be7-4847-9882-4d679f933aaf",
+      "storage_path": "/uploads/media/e8f371b1-19e2-460d-ae2b-90b9b9788cbb/hero-banner.png",
+      "file_name": "hero-banner.png",
+      "display_name": "Hero Banner Image",
+      "file_type": "image",
+      "mime_type": "image/png",
+      "size_bytes": 131072,
+      "source_type": "generated",
+      "generation_status": "completed",
+      "prompt": "Vibrant dark theme hero banner",
+      "projectId": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "userId": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "fileName": "hero-banner.png",
+      "displayName": "Hero Banner Image",
+      "fileType": "image",
+      "mimeType": "image/png",
+      "sizeBytes": 131072,
+      "sourceType": "generated",
+      "storagePath": "/uploads/media/e8f371b1-19e2-460d-ae2b-90b9b9788cbb/hero-banner.png",
+      "project_id": "e8f371b1-19e2-460d-ae2b-90b9b9788cbb",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "created_at": "2026-09-25T05:33:37.662Z",
+      "updated_at": "2026-09-25T05:33:37.662Z"
+    },
+    "b34d2ce0-3a2f-4baf-82b4-5c3701c6a584": {
+      "id": "b34d2ce0-3a2f-4baf-82b4-5c3701c6a584",
+      "storage_path": "/uploads/media/784c2e39-30e9-4371-a493-b870d5f572f8/hero-banner.png",
+      "file_name": "hero-banner.png",
+      "display_name": "Hero Banner Image",
+      "file_type": "image",
+      "mime_type": "image/png",
+      "size_bytes": 131072,
+      "source_type": "generated",
+      "generation_status": "completed",
+      "prompt": "Vibrant dark theme hero banner",
+      "projectId": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "userId": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "fileName": "hero-banner.png",
+      "displayName": "Hero Banner Image",
+      "fileType": "image",
+      "mimeType": "image/png",
+      "sizeBytes": 131072,
+      "sourceType": "generated",
+      "storagePath": "/uploads/media/784c2e39-30e9-4371-a493-b870d5f572f8/hero-banner.png",
+      "project_id": "784c2e39-30e9-4371-a493-b870d5f572f8",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "created_at": "2026-09-25T05:59:56.052Z",
+      "updated_at": "2026-09-25T05:59:56.052Z"
+    },
+    "7469f990-6634-4523-935b-70d2ec222478": {
+      "id": "7469f990-6634-4523-935b-70d2ec222478",
+      "storage_path": "/uploads/media/cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2/hero-banner.png",
+      "file_name": "hero-banner.png",
+      "display_name": "Hero Banner Image",
+      "file_type": "image",
+      "mime_type": "image/png",
+      "size_bytes": 131072,
+      "source_type": "generated",
+      "generation_status": "completed",
+      "prompt": "Vibrant dark theme hero banner",
+      "projectId": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "userId": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "fileName": "hero-banner.png",
+      "displayName": "Hero Banner Image",
+      "fileType": "image",
+      "mimeType": "image/png",
+      "sizeBytes": 131072,
+      "sourceType": "generated",
+      "storagePath": "/uploads/media/cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2/hero-banner.png",
+      "project_id": "cab6cc49-ed3a-47cf-bd95-ea3e0a00c6d2",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "created_at": "2026-09-25T06:48:17.556Z",
+      "updated_at": "2026-09-25T06:48:17.556Z"
+    }
+  },
+  "generationJobs": {},
+  "buildJobs": {
+    "29d3feb3-733d-4c0b-bd90-71db858c24d6": {
+      "id": "29d3feb3-733d-4c0b-bd90-71db858c24d6",
+      "user_id": "test-user-p16-1790306405411",
+      "project_id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "project_checkpoint_id": "0b09f0e8-d68f-4cf2-978a-a9872db364ed",
+      "version": "1.0.0",
+      "version_code": 1,
+      "status": "completed",
+      "build_provider": "vx-standalone-android-builder",
+      "logs": [
+        "[2026-09-25T03:20:05.857Z] Android APK build job queued for project 9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+        "[2026-09-25T03:20:05.858Z] Phase 1/4: Preparing project workspace and verifying dependencies...",
+        "[2026-09-25T03:20:06.459Z] Phase 2/4: Compiling JavaScript bundle and Android native resources (4 source files)...",
+        "[2026-09-25T03:20:06.460Z] [Metro/Expo] Bundling index.android.js for release...",
+        "[2026-09-25T03:20:07.262Z] [aapt2] Compiling Android resources for package com.vx.mobileapp...",
+        "[2026-09-25T03:20:07.964Z] Phase 3/4: Packaging APK binary and generating SHA-256 integrity checksum...",
+        "[2026-09-25T03:20:08.372Z] Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 3547f780c94386d9..."
+      ],
+      "created_at": "2026-09-25T03:20:05.857Z",
+      "updated_at": "2026-09-25T03:20:08.372Z",
+      "started_at": "2026-09-25T03:20:05.857Z",
+      "logMessage": "Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 3547f780c94386d9...",
+      "artifact_id": "4cc50f56-f722-4c77-945f-c215bffedc8f",
+      "completed_at": "2026-09-25T03:20:08.372Z"
+    },
+    "1e49d739-144a-4571-bff5-8fa0497d3f7b": {
+      "id": "1e49d739-144a-4571-bff5-8fa0497d3f7b",
+      "user_id": "test-user-p16-1790306713888",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "project_checkpoint_id": "ab030fd3-0aac-4738-a092-8d67cbf08125",
+      "version": "1.0.0",
+      "version_code": 1,
+      "status": "completed",
+      "build_provider": "vx-standalone-android-builder",
+      "logs": [
+        "[2026-09-25T03:25:14.392Z] Android APK build job queued for project 98ae28db-b8dc-4a75-9f37-bff656838f19",
+        "[2026-09-25T03:25:14.433Z] Phase 1/4: Preparing project workspace and verifying dependencies...",
+        "[2026-09-25T03:25:15.103Z] Phase 2/4: Compiling JavaScript bundle and Android native resources (4 source files)...",
+        "[2026-09-25T03:25:15.104Z] [Metro/Expo] Bundling index.android.js for release...",
+        "[2026-09-25T03:25:15.906Z] [aapt2] Compiling Android resources for package com.vx.mobileapp...",
+        "[2026-09-25T03:25:16.608Z] Phase 3/4: Packaging APK binary and generating SHA-256 integrity checksum...",
+        "[2026-09-25T03:25:17.025Z] Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: f53fb838f85ab22a..."
+      ],
+      "created_at": "2026-09-25T03:25:14.392Z",
+      "updated_at": "2026-09-25T03:25:17.025Z",
+      "started_at": "2026-09-25T03:25:14.433Z",
+      "logMessage": "Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: f53fb838f85ab22a...",
+      "artifact_id": "9bd8b4c9-f51a-4dd4-bd7f-298be531f0e7",
+      "completed_at": "2026-09-25T03:25:17.025Z"
+    },
+    "b021c720-aaa0-4b09-84e1-46b4d3c543dc": {
+      "id": "b021c720-aaa0-4b09-84e1-46b4d3c543dc",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "project_checkpoint_id": "0688d524-7de0-47f8-9004-ab92112e5b76",
+      "version": "1.0.0",
+      "version_code": 1,
+      "status": "completed",
+      "build_provider": "vx-standalone-android-builder",
+      "logs": [
+        "[2026-09-25T05:31:41.119Z] Android APK build job queued for project de3fd871-c01f-4748-aa4a-e82177f69020",
+        "[2026-09-25T05:31:41.120Z] Phase 1/4: Preparing project workspace and verifying dependencies...",
+        "[2026-09-25T05:31:41.722Z] Phase 2/4: Compiling JavaScript bundle and Android native resources (4 source files)...",
+        "[2026-09-25T05:31:41.722Z] [Metro/Expo] Bundling index.android.js for release...",
+        "[2026-09-25T05:31:42.523Z] [aapt2] Compiling Android resources for package com.vx.mobileapp...",
+        "[2026-09-25T05:31:43.225Z] Phase 3/4: Packaging APK binary and generating SHA-256 integrity checksum...",
+        "[2026-09-25T05:31:43.634Z] Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 546eba6e01c401b8..."
+      ],
+      "created_at": "2026-09-25T05:31:41.119Z",
+      "updated_at": "2026-09-25T05:31:43.634Z",
+      "started_at": "2026-09-25T05:31:41.120Z",
+      "logMessage": "Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 546eba6e01c401b8...",
+      "artifact_id": "87c91a19-909f-44ec-afea-a77d4ed91458",
+      "completed_at": "2026-09-25T05:31:43.633Z"
+    },
+    "3ad9ac70-5243-40d0-bd9e-124a5b34190b": {
+      "id": "3ad9ac70-5243-40d0-bd9e-124a5b34190b",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "project_checkpoint_id": "ee58c4fa-4d11-4081-89df-bfd483863bec",
+      "version": "1.0.0",
+      "version_code": 1,
+      "status": "completed",
+      "build_provider": "vx-standalone-android-builder",
+      "logs": [
+        "[2026-09-25T05:32:39.280Z] Android APK build job queued for project e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+        "[2026-09-25T05:32:39.281Z] Phase 1/4: Preparing project workspace and verifying dependencies...",
+        "[2026-09-25T05:32:39.884Z] Phase 2/4: Compiling JavaScript bundle and Android native resources (4 source files)...",
+        "[2026-09-25T05:32:39.886Z] [Metro/Expo] Bundling index.android.js for release...",
+        "[2026-09-25T05:32:40.687Z] [aapt2] Compiling Android resources for package com.vx.mobileapp...",
+        "[2026-09-25T05:32:41.389Z] Phase 3/4: Packaging APK binary and generating SHA-256 integrity checksum...",
+        "[2026-09-25T05:32:41.800Z] Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 9ce8494eccc908af..."
+      ],
+      "created_at": "2026-09-25T05:32:39.280Z",
+      "updated_at": "2026-09-25T05:32:41.800Z",
+      "started_at": "2026-09-25T05:32:39.281Z",
+      "logMessage": "Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 9ce8494eccc908af...",
+      "artifact_id": "b0850f7d-7b8e-4c0a-be02-50525879b6a6",
+      "completed_at": "2026-09-25T05:32:41.800Z"
+    },
+    "db6025ca-a8e2-45c7-a39f-0680fae0b1fb": {
+      "id": "db6025ca-a8e2-45c7-a39f-0680fae0b1fb",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "project_checkpoint_id": "701ac218-37da-4567-9c76-f4c2260e7628",
+      "version": "1.0.0",
+      "version_code": 1,
+      "status": "completed",
+      "build_provider": "vx-standalone-android-builder",
+      "logs": [
+        "[2026-09-25T05:33:37.677Z] Android APK build job queued for project d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+        "[2026-09-25T05:33:37.679Z] Phase 1/4: Preparing project workspace and verifying dependencies...",
+        "[2026-09-25T05:33:38.281Z] Phase 2/4: Compiling JavaScript bundle and Android native resources (4 source files)...",
+        "[2026-09-25T05:33:38.283Z] [Metro/Expo] Bundling index.android.js for release...",
+        "[2026-09-25T05:33:39.084Z] [aapt2] Compiling Android resources for package com.vx.mobileapp...",
+        "[2026-09-25T05:33:39.786Z] Phase 3/4: Packaging APK binary and generating SHA-256 integrity checksum...",
+        "[2026-09-25T05:33:40.194Z] Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: e55f5b78bc99e18f..."
+      ],
+      "created_at": "2026-09-25T05:33:37.677Z",
+      "updated_at": "2026-09-25T05:33:40.194Z",
+      "started_at": "2026-09-25T05:33:37.679Z",
+      "logMessage": "Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: e55f5b78bc99e18f...",
+      "artifact_id": "da7b6906-076b-4c39-9eff-020a92a71f6c",
+      "completed_at": "2026-09-25T05:33:40.194Z"
+    },
+    "3698a1b4-43a2-4821-89e6-6613af3a9bef": {
+      "id": "3698a1b4-43a2-4821-89e6-6613af3a9bef",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "project_checkpoint_id": "b47143c3-ff34-416c-810a-f8c3512982ad",
+      "version": "1.0.0",
+      "version_code": 1,
+      "status": "completed",
+      "build_provider": "vx-standalone-android-builder",
+      "logs": [
+        "[2026-09-25T05:59:56.068Z] Android APK build job queued for project 666e32c9-a848-4457-a9a5-e163ad319144",
+        "[2026-09-25T05:59:56.069Z] Phase 1/4: Preparing project workspace and verifying dependencies...",
+        "[2026-09-25T05:59:56.672Z] Phase 2/4: Compiling JavaScript bundle and Android native resources (4 source files)...",
+        "[2026-09-25T05:59:56.674Z] [Metro/Expo] Bundling index.android.js for release...",
+        "[2026-09-25T05:59:57.477Z] [aapt2] Compiling Android resources for package com.vx.mobileapp...",
+        "[2026-09-25T05:59:58.180Z] Phase 3/4: Packaging APK binary and generating SHA-256 integrity checksum...",
+        "[2026-09-25T05:59:58.589Z] Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 436e896bd98883d3..."
+      ],
+      "created_at": "2026-09-25T05:59:56.068Z",
+      "updated_at": "2026-09-25T05:59:58.589Z",
+      "started_at": "2026-09-25T05:59:56.069Z",
+      "logMessage": "Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 436e896bd98883d3...",
+      "artifact_id": "b3d397c4-0808-4efc-8fff-965a1281b9fe",
+      "completed_at": "2026-09-25T05:59:58.589Z"
+    },
+    "f7b914d7-f7fd-4f5a-b605-e6eac24671df": {
+      "id": "f7b914d7-f7fd-4f5a-b605-e6eac24671df",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "project_checkpoint_id": "d08804cf-d2e9-440e-b568-f59f856b65c4",
+      "version": "1.0.0",
+      "version_code": 1,
+      "status": "completed",
+      "build_provider": "vx-standalone-android-builder",
+      "logs": [
+        "[2026-09-25T06:48:17.572Z] Android APK build job queued for project 21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+        "[2026-09-25T06:48:17.574Z] Phase 1/4: Preparing project workspace and verifying dependencies...",
+        "[2026-09-25T06:48:18.176Z] Phase 2/4: Compiling JavaScript bundle and Android native resources (4 source files)...",
+        "[2026-09-25T06:48:18.178Z] [Metro/Expo] Bundling index.android.js for release...",
+        "[2026-09-25T06:48:18.980Z] [aapt2] Compiling Android resources for package com.vx.mobileapp...",
+        "[2026-09-25T06:48:19.683Z] Phase 3/4: Packaging APK binary and generating SHA-256 integrity checksum...",
+        "[2026-09-25T06:48:20.092Z] Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 243a0294cd67cba6..."
+      ],
+      "created_at": "2026-09-25T06:48:17.572Z",
+      "updated_at": "2026-09-25T06:48:20.092Z",
+      "started_at": "2026-09-25T06:48:17.574Z",
+      "logMessage": "Phase 4/4: Build completed successfully. APK artifact generated (0.07 MB). Checksum SHA-256: 243a0294cd67cba6...",
+      "artifact_id": "25bfe12b-49c9-4d84-801a-593e6d611407",
+      "completed_at": "2026-09-25T06:48:20.092Z"
+    }
+  },
+  "artifacts": {
+    "4cc50f56-f722-4c77-945f-c215bffedc8f": {
+      "id": "4cc50f56-f722-4c77-945f-c215bffedc8f",
+      "project_id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "user_id": "test-user-p16-1790306405411",
+      "build_id": "29d3feb3-733d-4c0b-bd90-71db858c24d6",
+      "artifact_type": "apk",
+      "file_name": "vx-mobile-app-v1.0.0-release.apk",
+      "storage_path": "/uploads/artifacts/9bcecf32-969c-4ea0-aaf8-4d6473ef1676/1.0.0/vx-mobile-app-v1.0.0-release.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size_bytes": 72575,
+      "version": "1.0.0",
+      "version_code": 1,
+      "checksum": "3547f780c94386d917aef12d5c8b1c9caa53f3c5e92fb791ed942cedbd666fd5",
+      "status": "available",
+      "created_at": "2026-09-25T03:20:07.970Z",
+      "updated_at": "2026-09-25T03:20:07.970Z"
+    },
+    "9bd8b4c9-f51a-4dd4-bd7f-298be531f0e7": {
+      "id": "9bd8b4c9-f51a-4dd4-bd7f-298be531f0e7",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "build_id": "1e49d739-144a-4571-bff5-8fa0497d3f7b",
+      "artifact_type": "apk",
+      "file_name": "vx-mobile-app-v1.0.0-release.apk",
+      "storage_path": "/uploads/artifacts/98ae28db-b8dc-4a75-9f37-bff656838f19/1.0.0/vx-mobile-app-v1.0.0-release.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size_bytes": 72575,
+      "version": "1.0.0",
+      "version_code": 1,
+      "checksum": "f53fb838f85ab22a8c1b38b8ae1cb02b5e244c034ac50c45a3c7f762005864c7",
+      "status": "available",
+      "created_at": "2026-09-25T03:25:16.623Z",
+      "updated_at": "2026-09-25T03:25:16.623Z"
+    },
+    "87c91a19-909f-44ec-afea-a77d4ed91458": {
+      "id": "87c91a19-909f-44ec-afea-a77d4ed91458",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "build_id": "b021c720-aaa0-4b09-84e1-46b4d3c543dc",
+      "artifact_type": "apk",
+      "file_name": "vx-mobile-app-v1.0.0-release.apk",
+      "storage_path": "/uploads/artifacts/de3fd871-c01f-4748-aa4a-e82177f69020/1.0.0/vx-mobile-app-v1.0.0-release.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size_bytes": 72575,
+      "version": "1.0.0",
+      "version_code": 1,
+      "checksum": "546eba6e01c401b888ff34bdb9644d275fcad1a5e84258b0072f5431938d6ba2",
+      "status": "available",
+      "created_at": "2026-09-25T05:31:43.231Z",
+      "updated_at": "2026-09-25T05:31:43.231Z"
+    },
+    "b0850f7d-7b8e-4c0a-be02-50525879b6a6": {
+      "id": "b0850f7d-7b8e-4c0a-be02-50525879b6a6",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "build_id": "3ad9ac70-5243-40d0-bd9e-124a5b34190b",
+      "artifact_type": "apk",
+      "file_name": "vx-mobile-app-v1.0.0-release.apk",
+      "storage_path": "/uploads/artifacts/e0db4c6d-3218-4c7e-9883-54841ad08ae7/1.0.0/vx-mobile-app-v1.0.0-release.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size_bytes": 72575,
+      "version": "1.0.0",
+      "version_code": 1,
+      "checksum": "9ce8494eccc908afa35ce09c1e663222847571458b9d5baee25a676b663efc84",
+      "status": "available",
+      "created_at": "2026-09-25T05:32:41.397Z",
+      "updated_at": "2026-09-25T05:32:41.397Z"
+    },
+    "da7b6906-076b-4c39-9eff-020a92a71f6c": {
+      "id": "da7b6906-076b-4c39-9eff-020a92a71f6c",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "build_id": "db6025ca-a8e2-45c7-a39f-0680fae0b1fb",
+      "artifact_type": "apk",
+      "file_name": "vx-mobile-app-v1.0.0-release.apk",
+      "storage_path": "/uploads/artifacts/d9b32850-638a-491f-bce8-9ea5dc1ac3c4/1.0.0/vx-mobile-app-v1.0.0-release.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size_bytes": 72576,
+      "version": "1.0.0",
+      "version_code": 1,
+      "checksum": "e55f5b78bc99e18f835e7e4da4769568ab7a75e1a297127f5503f2f9b8150b43",
+      "status": "available",
+      "created_at": "2026-09-25T05:33:39.793Z",
+      "updated_at": "2026-09-25T05:33:39.793Z"
+    },
+    "b3d397c4-0808-4efc-8fff-965a1281b9fe": {
+      "id": "b3d397c4-0808-4efc-8fff-965a1281b9fe",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "build_id": "3698a1b4-43a2-4821-89e6-6613af3a9bef",
+      "artifact_type": "apk",
+      "file_name": "vx-mobile-app-v1.0.0-release.apk",
+      "storage_path": "/uploads/artifacts/666e32c9-a848-4457-a9a5-e163ad319144/1.0.0/vx-mobile-app-v1.0.0-release.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size_bytes": 72576,
+      "version": "1.0.0",
+      "version_code": 1,
+      "checksum": "436e896bd98883d36a7b9aa27d239b5df5745b043692cc90504b2aaa141ced9a",
+      "status": "available",
+      "created_at": "2026-09-25T05:59:58.187Z",
+      "updated_at": "2026-09-25T05:59:58.187Z"
+    },
+    "25bfe12b-49c9-4d84-801a-593e6d611407": {
+      "id": "25bfe12b-49c9-4d84-801a-593e6d611407",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "build_id": "f7b914d7-f7fd-4f5a-b605-e6eac24671df",
+      "artifact_type": "apk",
+      "file_name": "vx-mobile-app-v1.0.0-release.apk",
+      "storage_path": "/uploads/artifacts/21f27d1e-3904-45ca-a9e1-83aca04e1c8e/1.0.0/vx-mobile-app-v1.0.0-release.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size_bytes": 72576,
+      "version": "1.0.0",
+      "version_code": 1,
+      "checksum": "243a0294cd67cba6958109c72af8f81557642852c85fa6876f2f2e38b7bb432b",
+      "status": "available",
+      "created_at": "2026-09-25T06:48:19.689Z",
+      "updated_at": "2026-09-25T06:48:19.689Z"
+    }
+  },
+  "shareableLinks": {
+    "ca3ba737-c6e9-4ac9-9e74-c7a00a333d86": {
+      "id": "ca3ba737-c6e9-4ac9-9e74-c7a00a333d86",
+      "artifact_id": "4cc50f56-f722-4c77-945f-c215bffedc8f",
+      "project_id": "9bcecf32-969c-4ea0-aaf8-4d6473ef1676",
+      "user_id": "test-user-p16-1790306405411",
+      "token": "742ede0c31944f73b8b65b50b5d10e3cf302543d0a7745628330075c1dcecffe",
+      "revoked": true,
+      "download_count": 0,
+      "expires_at": null,
+      "created_at": "2026-09-25T03:20:08.666Z",
+      "updated_at": "2026-09-25T03:20:08.667Z"
+    },
+    "7d763f1f-5771-471d-9ef0-54da16ad83b4": {
+      "id": "7d763f1f-5771-471d-9ef0-54da16ad83b4",
+      "artifact_id": "9bd8b4c9-f51a-4dd4-bd7f-298be531f0e7",
+      "project_id": "98ae28db-b8dc-4a75-9f37-bff656838f19",
+      "user_id": "test-user-p16-1790306713888",
+      "token": "7f74ed421454407e9c81bed88b83d9b8ab01a158953c413f84a11f2cc004656b",
+      "revoked": true,
+      "download_count": 0,
+      "expires_at": null,
+      "created_at": "2026-09-25T03:25:17.238Z",
+      "updated_at": "2026-09-25T03:25:17.240Z"
+    },
+    "64983428-cba8-4730-a64e-a6e117834936": {
+      "id": "64983428-cba8-4730-a64e-a6e117834936",
+      "artifact_id": "87c91a19-909f-44ec-afea-a77d4ed91458",
+      "project_id": "de3fd871-c01f-4748-aa4a-e82177f69020",
+      "user_id": "e3809087-cadd-4ad2-844e-d949c962d612",
+      "token": "a7c50d0d6aba46668e424a61386cdf81dfa60b5bfd2c498d8d3463da643f2456",
+      "revoked": false,
+      "download_count": 0,
+      "expires_at": null,
+      "created_at": "2026-09-25T05:31:43.835Z",
+      "updated_at": "2026-09-25T05:31:43.835Z"
+    },
+    "b57f18f2-d8cc-4b8f-a644-238b81b0fe29": {
+      "id": "b57f18f2-d8cc-4b8f-a644-238b81b0fe29",
+      "artifact_id": "b0850f7d-7b8e-4c0a-be02-50525879b6a6",
+      "project_id": "e0db4c6d-3218-4c7e-9883-54841ad08ae7",
+      "user_id": "9a2b4d8b-2fa4-44d0-9173-99b88e84cced",
+      "token": "f07a0e87da0d429cb85961ec7bb7e56c4e542d41c49e4b15be8086ba48b6cb84",
+      "revoked": false,
+      "download_count": 0,
+      "expires_at": null,
+      "created_at": "2026-09-25T05:32:42.001Z",
+      "updated_at": "2026-09-25T05:32:42.001Z"
+    },
+    "8ee32a85-2089-454f-ac79-e8faa4b0542e": {
+      "id": "8ee32a85-2089-454f-ac79-e8faa4b0542e",
+      "artifact_id": "da7b6906-076b-4c39-9eff-020a92a71f6c",
+      "project_id": "d9b32850-638a-491f-bce8-9ea5dc1ac3c4",
+      "user_id": "253979f4-383d-4d70-9733-2a0cd1877af8",
+      "token": "b66b21c87d54448ea051391434971c7d136de6bed1c047a5892ab52e64bb07a9",
+      "revoked": false,
+      "download_count": 0,
+      "expires_at": null,
+      "created_at": "2026-09-25T05:33:40.396Z",
+      "updated_at": "2026-09-25T05:33:40.396Z"
+    },
+    "68e1d307-f8e4-4027-ae84-23248e96f6fe": {
+      "id": "68e1d307-f8e4-4027-ae84-23248e96f6fe",
+      "artifact_id": "b3d397c4-0808-4efc-8fff-965a1281b9fe",
+      "project_id": "666e32c9-a848-4457-a9a5-e163ad319144",
+      "user_id": "988ba144-1c64-4532-9a96-ca417b2288ab",
+      "token": "c75cf6227f8d4a2bb0939137a1c34d7ac5070a6edcef4de787889e227be0119f",
+      "revoked": false,
+      "download_count": 0,
+      "expires_at": null,
+      "created_at": "2026-09-25T05:59:58.791Z",
+      "updated_at": "2026-09-25T05:59:58.791Z"
+    },
+    "56b7eb5b-ff80-46ee-93f8-45092fb8af6d": {
+      "id": "56b7eb5b-ff80-46ee-93f8-45092fb8af6d",
+      "artifact_id": "25bfe12b-49c9-4d84-801a-593e6d611407",
+      "project_id": "21f27d1e-3904-45ca-a9e1-83aca04e1c8e",
+      "user_id": "633a39c8-ec3b-47bc-a724-df1c1f810600",
+      "token": "150e2a4c901043f89a97092609cff83a4fbe683129874656ba52b81c3b98bb78",
+      "revoked": false,
+      "download_count": 0,
+      "expires_at": null,
+      "created_at": "2026-09-25T06:48:20.293Z",
+      "updated_at": "2026-09-25T06:48:20.293Z"
+    }
+  }
+}
