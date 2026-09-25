@@ -1,0 +1,167 @@
+name: Extract ZIP to Repository Root
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract-zip:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Find ZIP file
+        id: find_zip
+        shell: bash
+        run: |
+          set -e
+
+          ZIP_FILE=$(find . -maxdepth 1 -type f \
+            \( -iname "*.zip" \) \
+            -print -quit)
+
+          if [ -z "$ZIP_FILE" ]; then
+            echo "ERROR: No ZIP file found in the repository root."
+            exit 1
+          fi
+
+          echo "Found ZIP: $ZIP_FILE"
+          echo "zip=$ZIP_FILE" >> "$GITHUB_OUTPUT"
+
+      - name: Prepare temporary extraction directory
+        run: |
+          set -e
+
+          rm -rf .github/_zip_extract
+          mkdir -p .github/_zip_extract
+
+      - name: Extract ZIP
+        shell: bash
+        run: |
+          set -e
+
+          ZIP_FILE="${{ steps.find_zip.outputs.zip }}"
+
+          echo "Extracting: $ZIP_FILE"
+
+          unzip -q "$ZIP_FILE" -d .github/_zip_extract
+
+      - name: Flatten ZIP contents
+        shell: bash
+        run: |
+          set -e
+
+          TEMP=".github/_zip_extract"
+
+          echo "Contents extracted:"
+          find "$TEMP" -maxdepth 3 -print
+
+          # If the ZIP contains one single top-level directory,
+          # move that directory's CONTENTS to the repository root.
+          ITEMS=("$TEMP"/* "$TEMP"/.[!.]* "$TEMP"/..?*)
+
+          # Remove nonexistent glob results.
+          REAL_ITEMS=()
+          for item in "${ITEMS[@]}"; do
+            [ -e "$item" ] || continue
+            [ "$item" = "$TEMP/." ] && continue
+            [ "$item" = "$TEMP/.." ] && continue
+            REAL_ITEMS+=("$item")
+          done
+
+          if [ "${#REAL_ITEMS[@]}" -eq 1 ] && [ -d "${REAL_ITEMS[0]}" ]; then
+            ROOT_DIR="${REAL_ITEMS[0]}"
+
+            echo "ZIP contains one top-level folder:"
+            echo "$ROOT_DIR"
+
+            echo "Moving folder CONTENTS to repository root..."
+
+            shopt -s dotglob nullglob
+
+            for item in "$ROOT_DIR"/*; do
+              mv "$item" .
+            done
+
+            shopt -u dotglob nullglob
+          else
+            echo "ZIP already contains root-level files."
+            echo "Moving extracted contents directly to repository root..."
+
+            shopt -s dotglob nullglob
+
+            for item in "$TEMP"/*; do
+              mv "$item" .
+            done
+
+            shopt -u dotglob nullglob
+          fi
+
+      - name: Remove ZIP and temporary files
+        shell: bash
+        run: |
+          set -e
+
+          ZIP_FILE="${{ steps.find_zip.outputs.zip }}"
+
+          echo "Removing ZIP..."
+          rm -f "$ZIP_FILE"
+
+          echo "Removing temporary extraction directory..."
+          rm -rf .github/_zip_extract
+
+      - name: Protect Git metadata
+        shell: bash
+        run: |
+          set -e
+
+          # Never allow extracted ZIP contents to replace the Git metadata.
+          if [ ! -d ".git" ]; then
+            echo "ERROR: .git directory is missing."
+            exit 1
+          fi
+
+          echo "Git metadata is present."
+
+      - name: Show final repository structure
+        shell: bash
+        run: |
+          echo "===== FINAL REPOSITORY ROOT ====="
+          find . -maxdepth 2 \
+            -not -path "./.git/*" \
+            -not -path "./node_modules/*" \
+            -print | sort
+
+      - name: Check Git changes
+        run: |
+          git status --short
+
+      - name: Commit extracted project
+        shell: bash
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Extract project ZIP into repository root"
+
+      - name: Push changes
+        shell: bash
+        run: |
+          set -e
+
+          git push origin HEAD:${GITHUB_REF_NAME}
